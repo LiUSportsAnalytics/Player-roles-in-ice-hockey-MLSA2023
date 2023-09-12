@@ -1,0 +1,577 @@
+PlayerId,fullName,Position,TeamName,Minutes,Points,GF,GA,Rank
+8475764.0,Cam Fowler,D,Anaheim Ducks,1859.25,76,228,266,23.0
+8474031.0,Kevin Shattenkirk,D,Anaheim Ducks,1758.7,76,228,266,23.0
+8482142.0,Jamie Drysdale,D,Anaheim Ducks,1610.3833333333334,76,228,266,23.0
+8476854.0,Hampus Lindholm,D,Anaheim Ducks,1377.35,76,228,266,23.0
+8478873.0,Troy Terry,R,Anaheim Ducks,1367.7333333333333,76,228,266,23.0
+8481533.0,Trevor Zegras,C,Anaheim Ducks,1343.0333333333333,76,228,266,23.0
+8480806.0,Isac Lundestrom,C,Anaheim Ducks,1238.85,76,228,266,23.0
+8470612.0,Ryan Getzlaf,C,Anaheim Ducks,1061.65,76,228,266,23.0
+8474683.0,Derek Grant,C,Anaheim Ducks,1016.2666666666667,76,228,266,23.0
+8474641.0,Adam Henrique,C,Anaheim Ducks,1010.3333333333334,76,228,266,23.0
+8477947.0,Sonny Milano,L,Anaheim Ducks,1008.35,76,228,266,23.0
+8476483.0,Rickard Rakell,R,Anaheim Ducks,935.5,76,228,266,23.0
+8475164.0,Jakob Silfverberg,R,Anaheim Ducks,903.45,76,228,266,23.0
+8476312.0,Josh Manson,D,Anaheim Ducks,888.6166666666667,76,228,266,23.0
+8479351.0,Sam Steel,C,Anaheim Ducks,837.2166666666667,76,228,266,23.0
+8481122.0,Simon Benoit,D,Anaheim Ducks,746.9,76,228,266,23.0
+8480031.0,Max Comtois,L,Anaheim Ducks,735.0333333333333,76,228,266,23.0
+8475842.0,Sam Carrick,C,Anaheim Ducks,733.9,76,228,266,23.0
+8476906.0,Shayne Gostisbehere,D,Arizona Coyotes,1821.25,57,206,309,31.0
+8471873.0,Anton Stralman,D,Arizona Coyotes,1582.1833333333334,57,206,309,31.0
+8478062.0,Dysin Mayo,D,Arizona Coyotes,1401.3666666666666,57,206,309,31.0
+8473548.0,Phil Kessel,R,Arizona Coyotes,1367.5833333333333,57,206,309,31.0
+8479343.0,Clayton Keller,R,Arizona Coyotes,1349.3,57,206,309,31.0
+8476329.0,Travis Boyd,C,Arizona Coyotes,1222.0,57,206,309,31.0
+8477951.0,Nick Schmaltz,C,Arizona Coyotes,1149.5833333333333,57,206,309,31.0
+8478474.0,Lawson Crouse,L,Arizona Coyotes,1135.1,57,206,309,31.0
+8479345.0,Jakob Chychrun,D,Arizona Coyotes,1080.7666666666667,57,206,309,31.0
+8480849.0,Barrett Hayton,C,Arizona Coyotes,967.0833333333334,57,206,309,31.0
+8470626.0,Loui Eriksson,L,Arizona Coyotes,943.1833333333333,57,206,309,31.0
+8480950.0,Ilya Lyubushkin,D,Arizona Coyotes,833.5333333333333,57,206,309,31.0
+8482655.0,J.J. Moser,D,Arizona Coyotes,803.8,57,206,309,31.0
+8476851.0,Alex Galchenyuk,C,Arizona Coyotes,789.2166666666667,57,206,309,31.0
+8471217.0,Andrew Ladd,L,Arizona Coyotes,721.25,57,206,309,31.0
+8478476.0,Kyle Capobianco,D,Arizona Coyotes,721.1833333333333,57,206,309,31.0
+8478432.0,Christian Fischer,R,Arizona Coyotes,694.9666666666667,57,206,309,31.0
+8474849.0,Antoine Roussel,L,Arizona Coyotes,644.2833333333333,57,206,309,31.0
+8479325.0,Charlie McAvoy,D,Boston Bruins,1924.8,107,253,218,10.0
+8478443.0,Brandon Carlo,D,Boston Bruins,1558.2,107,253,218,10.0
+8475745.0,Charlie Coyle,C,Boston Bruins,1429.3666666666666,107,253,218,10.0
+8475762.0,Derek Forbort,D,Boston Bruins,1377.4666666666667,107,253,218,10.0
+8476891.0,Matt Grzelcyk,D,Boston Bruins,1369.0166666666667,107,253,218,10.0
+8473419.0,Brad Marchand,L,Boston Bruins,1350.6166666666666,107,253,218,10.0
+8477956.0,David Pastrnak,R,Boston Bruins,1339.75,107,253,218,10.0
+8475791.0,Taylor Hall,L,Boston Bruins,1331.2166666666667,107,253,218,10.0
+8476422.0,Mike Reilly,D,Boston Bruins,1329.35,107,253,218,10.0
+8470638.0,Patrice Bergeron,C,Boston Bruins,1329.0666666666666,107,253,218,10.0
+8475287.0,Erik Haula,L,Boston Bruins,1177.95,107,253,218,10.0
+8478498.0,Jake DeBrusk,L,Boston Bruins,1158.8,107,253,218,10.0
+8475225.0,Craig Smith,C,Boston Bruins,1068.7666666666667,107,253,218,10.0
+8477931.0,Tomas Nosek,L,Boston Bruins,1004.6666666666666,107,253,218,10.0
+8477365.0,Connor Clifton,D,Boston Bruins,965.3,107,253,218,10.0
+8477508.0,Curtis Lazar,C,Boston Bruins,840.5333333333333,107,253,218,10.0
+8473422.0,Nick Foligno,L,Boston Bruins,798.35,107,253,218,10.0
+8479365.0,Trent Frederic,C,Boston Bruins,700.45,107,253,218,10.0
+8480839.0,Rasmus Dahlin,D,Buffalo Sabres,1960.65,75,229,287,24.0
+8479420.0,Tage Thompson,R,Buffalo Sabres,1425.0,75,229,287,24.0
+8475784.0,Jeff Skinner,L,Buffalo Sabres,1378.8166666666666,75,229,287,24.0
+8480196.0,Jacob Bryson,D,Buffalo Sabres,1349.4833333333333,75,229,287,24.0
+8480035.0,Henri Jokiharju,D,Buffalo Sabres,1334.8166666666666,75,229,287,24.0
+8473449.0,Kyle Okposo,R,Buffalo Sabres,1272.4,75,229,287,24.0
+8481528.0,Dylan Cozens,C,Buffalo Sabres,1262.9666666666667,75,229,287,24.0
+8475796.0,Mark Pysyk,D,Buffalo Sabres,1242.4666666666667,75,229,287,24.0
+8479335.0,Rasmus Asplund,C,Buffalo Sabres,1169.55,75,229,287,24.0
+8478109.0,Victor Olofsson,L,Buffalo Sabres,1124.9,75,229,287,24.0
+8475236.0,Cody Eakin,C,Buffalo Sabres,959.4166666666666,75,229,287,24.0
+8477949.0,Alex Tuch,R,Buffalo Sabres,940.2333333333333,75,229,287,24.0
+8476994.0,Vinnie Hinostroza,C,Buffalo Sabres,870.7,75,229,287,24.0
+8480807.0,Mattias Samuelsson,D,Buffalo Sabres,840.2166666666667,75,229,287,24.0
+8476878.0,Zemgus Girgensons,L,Buffalo Sabres,836.3333333333334,75,229,287,24.0
+8477462.0,Robert Hagg,D,Buffalo Sabres,827.65,75,229,287,24.0
+8476525.0,Colin Miller,D,Buffalo Sabres,734.7166666666667,75,229,287,24.0
+8481522.0,Peyton Krebs,C,Buffalo Sabres,724.8333333333334,75,229,287,24.0
+8478397.0,Rasmus Andersson,D,Calgary Flames,1882.4666666666667,111,291,206,6.0
+8478396.0,Noah Hanifin,D,Calgary Flames,1748.0666666666666,111,291,206,6.0
+8475690.0,Christopher Tanev,D,Calgary Flames,1699.45,111,291,206,6.0
+8477496.0,Elias Lindholm,C,Calgary Flames,1657.6166666666666,111,291,206,6.0
+8476346.0,Johnny Gaudreau,L,Calgary Flames,1544.1833333333334,111,291,206,6.0
+8479314.0,Matthew Tkachuk,L,Calgary Flames,1488.4666666666667,111,291,206,6.0
+8475790.0,Erik Gudbranson,D,Calgary Flames,1431.7333333333333,111,291,206,6.0
+8474150.0,Mikael Backlund,C,Calgary Flames,1417.6166666666666,111,291,206,6.0
+8478430.0,Oliver Kylington,D,Calgary Flames,1327.15,111,291,206,6.0
+8478233.0,Andrew Mangiapane,L,Calgary Flames,1305.95,111,291,206,6.0
+8477507.0,Nikita Zadorov,D,Calgary Flames,1270.3,111,291,206,6.0
+8476399.0,Blake Coleman,C,Calgary Flames,1214.1666666666667,111,291,206,6.0
+8473453.0,Trevor Lewis,C,Calgary Flames,1042.1666666666667,111,291,206,6.0
+8479346.0,Dillon Dube,C,Calgary Flames,1027.4666666666667,111,291,206,6.0
+8473473.0,Milan Lucic,L,Calgary Flames,1021.8,111,291,206,6.0
+8477497.0,Sean Monahan,C,Calgary Flames,928.3,111,291,206,6.0
+8475726.0,Tyler Toffoli,R,Calgary Flames,574.0666666666667,111,291,206,6.0
+8476439.0,Brett Ritchie,R,Calgary Flames,412.01666666666665,111,291,206,6.0
+8476958.0,Jaccob Slavin,D,Carolina Hurricanes,1861.4333333333334,116,277,200,3.0
+8476869.0,Brady Skjei,D,Carolina Hurricanes,1733.6666666666667,116,277,200,3.0
+8477488.0,Brett Pesce,D,Carolina Hurricanes,1519.6166666666666,116,277,200,3.0
+8478427.0,Sebastian Aho,C,Carolina Hurricanes,1480.6333333333334,116,277,200,3.0
+8476389.0,Vincent Trocheck,C,Carolina Hurricanes,1447.7833333333333,116,277,200,3.0
+8476882.0,Teuvo Teravainen,L,Carolina Hurricanes,1362.8666666666666,116,277,200,3.0
+8480830.0,Andrei Svechnikov,R,Carolina Hurricanes,1346.2666666666667,116,277,200,3.0
+8473533.0,Jordan Staal,C,Carolina Hurricanes,1297.9166666666667,116,277,200,3.0
+8474013.0,Ian Cole,D,Carolina Hurricanes,1286.4,116,277,200,3.0
+8477950.0,Tony DeAngelo,D,Carolina Hurricanes,1268.3166666666666,116,277,200,3.0
+8480039.0,Martin Necas,C,Carolina Hurricanes,1262.6666666666667,116,277,200,3.0
+8475855.0,Jesper Fast,R,Carolina Hurricanes,1214.4666666666667,116,277,200,3.0
+8475799.0,Nino Niederreiter,R,Carolina Hurricanes,1113.8333333333333,116,277,200,3.0
+8482093.0,Seth Jarvis,C,Carolina Hurricanes,943.5,116,277,200,3.0
+8478451.0,Ethan Bear,D,Carolina Hurricanes,934.4166666666666,116,277,200,3.0
+8480829.0,Jesperi Kotkaniemi,C,Carolina Hurricanes,793.5333333333333,116,277,200,3.0
+8478904.0,Steven Lorentz,C,Carolina Hurricanes,730.0833333333334,116,277,200,3.0
+8476921.0,Jordan Martinook,L,Carolina Hurricanes,660.85,116,277,200,3.0
+8477495.0,Seth Jones,D,Chicago Blackhawks,2046.0333333333333,68,213,289,27.0
+8479337.0,Alex DeBrincat,R,Chicago Blackhawks,1712.9,68,213,289,27.0
+8474141.0,Patrick Kane,R,Chicago Blackhawks,1702.2166666666667,68,213,289,27.0
+8476931.0,Jake McCabe,D,Chicago Blackhawks,1523.05,68,213,289,27.0
+8475177.0,Calvin de Haan,D,Chicago Blackhawks,1309.05,68,213,289,27.0
+8481523.0,Kirby Dach,C,Chicago Blackhawks,1264.0333333333333,68,213,289,27.0
+8473604.0,Jonathan Toews,C,Chicago Blackhawks,1241.7,68,213,289,27.0
+8476473.0,Connor Murphy,D,Chicago Blackhawks,1240.4666666666667,68,213,289,27.0
+8478440.0,Dylan Strome,C,Chicago Blackhawks,1203.4,68,213,289,27.0
+8477330.0,Dominik Kubalik,L,Chicago Blackhawks,1133.5666666666666,68,213,289,27.0
+8479542.0,Brandon Hagel,L,Chicago Blackhawks,960.5333333333333,68,213,289,27.0
+8476979.0,Erik Gustafsson,D,Chicago Blackhawks,958.4,68,213,289,27.0
+8480798.0,Philipp Kurashev,C,Chicago Blackhawks,861.9333333333333,68,213,289,27.0
+8478452.0,Caleb Jones,D,Chicago Blackhawks,853.65,68,213,289,27.0
+8479388.0,Riley Stillman,D,Chicago Blackhawks,783.25,68,213,289,27.0
+8477846.0,Ryan Carpenter,C,Chicago Blackhawks,753.8833333333333,68,213,289,27.0
+8478043.0,Sam Lafferty,C,Chicago Blackhawks,672.9,68,213,289,27.0
+8480025.0,MacKenzie Entwistle,R,Chicago Blackhawks,563.45,68,213,289,27.0
+8480069.0,Cale Makar,D,Colorado Avalanche,2002.65,119,308,232,2.0
+8478038.0,Devon Toews,D,Colorado Avalanche,1707.8333333333333,119,308,232,2.0
+8478420.0,Mikko Rantanen,R,Colorado Avalanche,1595.2666666666667,119,308,232,2.0
+8479398.0,Samuel Girard,D,Colorado Avalanche,1451.0833333333333,119,308,232,2.0
+8477492.0,Nathan MacKinnon,C,Colorado Avalanche,1389.8166666666666,119,308,232,2.0
+8475172.0,Nazem Kadri,C,Colorado Avalanche,1386.3333333333333,119,308,232,2.0
+8473446.0,Erik Johnson,D,Colorado Avalanche,1349.9166666666667,119,308,232,2.0
+8477444.0,Andre Burakovsky,L,Colorado Avalanche,1318.4666666666667,119,308,232,2.0
+8471677.0,Jack Johnson,D,Colorado Avalanche,1258.4666666666667,119,308,232,2.0
+8477501.0,Valeri Nichushkin,R,Colorado Avalanche,1202.6,119,308,232,2.0
+8477456.0,J.T. Compher,L,Colorado Avalanche,1160.3333333333333,119,308,232,2.0
+8481186.0,Logan O'Connor,R,Colorado Avalanche,1138.4333333333334,119,308,232,2.0
+8476455.0,Gabriel Landeskog,L,Colorado Avalanche,1037.4333333333334,119,308,232,2.0
+8481618.0,Alex Newhook,C,Colorado Avalanche,983.0333333333333,119,308,232,2.0
+8479370.0,Tyson Jost,C,Colorado Avalanche,767.9666666666667,119,308,232,2.0
+8471794.0,Darren Helm,C,Colorado Avalanche,732.3666666666667,119,308,232,2.0
+8477979.0,Nicolas Aube-Kubel,R,Colorado Avalanche,666.1,119,308,232,2.0
+8481524.0,Bowen Byram,D,Colorado Avalanche,564.2333333333333,119,308,232,2.0
+8478882.0,Vladislav Gavrikov,D,Columbus Blue Jackets,1784.95,81,258,297,21.0
+8479369.0,Andrew Peeke,D,Columbus Blue Jackets,1768.4166666666667,81,258,297,21.0
+8478460.0,Zach Werenski,D,Columbus Blue Jackets,1746.4833333333333,81,258,297,21.0
+8474679.0,Gustav Nyquist,C,Columbus Blue Jackets,1465.9,81,258,297,21.0
+8477416.0,Oliver Bjorkstrand,R,Columbus Blue Jackets,1439.6,81,258,297,21.0
+8474161.0,Jakub Voracek,R,Columbus Blue Jackets,1382.1166666666666,81,258,297,21.0
+8479402.0,Jake Bean,D,Columbus Blue Jackets,1379.3,81,258,297,21.0
+8476374.0,Sean Kuraly,C,Columbus Blue Jackets,1225.0833333333333,81,258,297,21.0
+8476432.0,Boone Jenner,C,Columbus Blue Jackets,1211.6333333333334,81,258,297,21.0
+8478458.0,Jack Roslovic,C,Columbus Blue Jackets,1158.1666666666667,81,258,297,21.0
+8482705.0,Cole Sillinger,C,Columbus Blue Jackets,1085.35,81,258,297,21.0
+8479339.0,Patrik Laine,L,Columbus Blue Jackets,1058.0166666666667,81,258,297,21.0
+8480762.0,Eric Robinson,L,Columbus Blue Jackets,930.7666666666667,81,258,297,21.0
+8480871.0,Adam Boqvist,D,Columbus Blue Jackets,887.6166666666667,81,258,297,21.0
+8482475.0,Yegor Chinakhov,R,Columbus Blue Jackets,776.1,81,258,297,21.0
+8477503.0,Max Domi,C,Columbus Blue Jackets,710.7166666666667,81,258,297,21.0
+8478567.0,Dean Kukan,D,Columbus Blue Jackets,669.6833333333333,81,258,297,21.0
+8479941.0,Justin Danforth,R,Columbus Blue Jackets,567.0666666666667,81,258,297,21.0
+8470600.0,Ryan Suter,D,Dallas Stars,1939.75,98,233,244,15.0
+8480036.0,Miro Heiskanen,D,Dallas Stars,1742.8666666666666,98,233,244,15.0
+8476902.0,Esa Lindell,D,Dallas Stars,1675.4333333333334,98,233,244,15.0
+8475906.0,John Klingberg,D,Dallas Stars,1643.4666666666667,98,233,244,15.0
+8470794.0,Joe Pavelski,C,Dallas Stars,1514.8666666666666,98,233,244,15.0
+8475794.0,Tyler Seguin,C,Dallas Stars,1443.3,98,233,244,15.0
+8478449.0,Roope Hintz,C,Dallas Stars,1442.8833333333334,98,233,244,15.0
+8473994.0,Jamie Benn,L,Dallas Stars,1373.2666666666667,98,233,244,15.0
+8480027.0,Jason Robertson,L,Dallas Stars,1340.2,98,233,244,15.0
+8475825.0,Jani Hakanpaa,D,Dallas Stars,1296.6666666666667,98,233,244,15.0
+8476889.0,Radek Faksa,C,Dallas Stars,1214.2,98,233,244,15.0
+8476822.0,Luke Glendening,C,Dallas Stars,1157.4833333333333,98,233,244,15.0
+8477290.0,Michael Raffl,L,Dallas Stars,1104.75,98,233,244,15.0
+8478495.0,Denis Gurianov,R,Dallas Stars,1035.5166666666667,98,233,244,15.0
+8471228.0,Alexander Radulov,R,Dallas Stars,1000.8666666666667,98,233,244,15.0
+8480216.0,Jacob Peterson,C,Dallas Stars,719.1,98,233,244,15.0
+8481641.0,Joel Kiviranta,L,Dallas Stars,533.2333333333333,98,233,244,15.0
+8477810.0,Joel Hanley,D,Dallas Stars,525.3833333333333,98,233,244,15.0
+8481542.0,Moritz Seider,D,Detroit Red Wings,1889.9,74,227,310,25.0
+8479425.0,Filip Hronek,D,Detroit Red Wings,1718.1,74,227,310,25.0
+8482078.0,Lucas Raymond,L,Detroit Red Wings,1490.9,74,227,310,25.0
+8477946.0,Dylan Larkin,C,Detroit Red Wings,1395.6666666666667,74,227,310,25.0
+8480459.0,Pius Suter,C,Detroit Red Wings,1389.4833333333333,74,227,310,25.0
+8477479.0,Tyler Bertuzzi,L,Detroit Red Wings,1350.7333333333333,74,227,310,25.0
+8471686.0,Marc Staal,D,Detroit Red Wings,1237.5,74,227,310,25.0
+8475181.0,Nick Leddy,D,Detroit Red Wings,1185.1,74,227,310,25.0
+8479992.0,Michael Rasmussen,C,Detroit Red Wings,1161.45,74,227,310,25.0
+8474040.0,Sam Gagner,C,Detroit Red Wings,1103.2333333333333,74,227,310,25.0
+8477215.0,Danny DeKeyser,D,Detroit Red Wings,1091.75,74,227,310,25.0
+8477454.0,Adam Erne,L,Detroit Red Wings,1057.2833333333333,74,227,310,25.0
+8480821.0,Filip Zadina,R,Detroit Red Wings,1049.05,74,227,310,25.0
+8480184.0,Gustav Lindstrom,D,Detroit Red Wings,1017.8833333333333,74,227,310,25.0
+8477952.0,Robby Fabbri,C,Detroit Red Wings,972.75,74,227,310,25.0
+8476480.0,Vladislav Namestnikov,C,Detroit Red Wings,913.7833333333333,74,227,310,25.0
+8480813.0,Joe Veleno,C,Detroit Red Wings,872.15,74,227,310,25.0
+8477851.0,Jordan Oesterle,D,Detroit Red Wings,822.9166666666666,74,227,310,25.0
+8477934.0,Leon Draisaitl,C,Edmonton Oilers,1809.3833333333334,104,285,251,11.0
+8477498.0,Darnell Nurse,D,Edmonton Oilers,1802.2,104,285,251,11.0
+8478402.0,Connor McDavid,C,Edmonton Oilers,1788.4333333333334,104,285,251,11.0
+8476879.0,Cody Ceci,D,Edmonton Oilers,1649.8333333333333,104,285,251,11.0
+8480803.0,Evan Bouchard,D,Edmonton Oilers,1627.9666666666667,104,285,251,11.0
+8475786.0,Zach Hyman,L,Edmonton Oilers,1501.6833333333334,104,285,251,11.0
+8475197.0,Tyson Barrie,D,Edmonton Oilers,1400.1833333333334,104,285,251,11.0
+8479977.0,Kailer Yamamoto,R,Edmonton Oilers,1384.15,104,285,251,11.0
+8470281.0,Duncan Keith,D,Edmonton Oilers,1282.7333333333333,104,285,251,11.0
+8476454.0,Ryan Nugent-Hopkins,C,Edmonton Oilers,1237.6166666666666,104,285,251,11.0
+8479344.0,Jesse Puljujarvi,R,Edmonton Oilers,1073.3,104,285,251,11.0
+8477998.0,Warren Foegele,L,Edmonton Oilers,1046.9666666666667,104,285,251,11.0
+8480802.0,Ryan McLeod,C,Edmonton Oilers,914.9166666666666,104,285,251,11.0
+8478585.0,Derek Ryan,C,Edmonton Oilers,866.4833333333333,104,285,251,11.0
+8475169.0,Evander Kane,L,Edmonton Oilers,836.3666666666667,104,285,251,11.0
+8475178.0,Zack Kassian,R,Edmonton Oilers,683.5,104,285,251,11.0
+8471729.0,Kris Russell,D,Edmonton Oilers,492.9,104,285,251,11.0
+8476913.0,Devin Shore,C,Edmonton Oilers,468.51666666666665,104,285,251,11.0
+8477346.0,MacKenzie Weegar,D,Florida Panthers,1895.7833333333333,122,337,242,1.0
+8476456.0,Jonathan Huberdeau,L,Florida Panthers,1573.5166666666667,122,337,242,1.0
+8477932.0,Aaron Ekblad,D,Florida Panthers,1547.9666666666667,122,337,242,1.0
+8478055.0,Gustav Forsling,D,Florida Panthers,1529.0333333333333,122,337,242,1.0
+8477986.0,Brandon Montour,D,Florida Panthers,1465.1333333333334,122,337,242,1.0
+8475462.0,Radko Gudas,D,Florida Panthers,1405.6833333333334,122,337,242,1.0
+8477933.0,Sam Reinhart,C,Florida Panthers,1405.1166666666666,122,337,242,1.0
+8477493.0,Aleksander Barkov,C,Florida Panthers,1379.75,122,337,242,1.0
+8477409.0,Carter Verhaeghe,C,Florida Panthers,1270.9833333333333,122,337,242,1.0
+8477935.0,Sam Bennett,C,Florida Panthers,1218.55,122,337,242,1.0
+8477407.0,Anthony Duclair,L,Florida Panthers,1124.5833333333333,122,337,242,1.0
+8480185.0,Eetu Luostarinen,C,Florida Panthers,1063.0166666666667,122,337,242,1.0
+8482113.0,Anton Lundell,C,Florida Panthers,1039.5666666666666,122,337,242,1.0
+8471887.0,Patric Hornqvist,R,Florida Panthers,839.05,122,337,242,1.0
+8478975.0,Mason Marchment,L,Florida Panthers,774.7833333333333,122,337,242,1.0
+8479066.0,Ryan Lomberg,L,Florida Panthers,639.45,122,337,242,1.0
+8478366.0,Frank Vatrano,R,Florida Panthers,597.75,122,337,242,1.0
+8480015.0,Owen Tippett,R,Florida Panthers,527.8833333333333,122,337,242,1.0
+8471685.0,Anze Kopitar,C,Los Angeles Kings,1685.7833333333333,99,235,232,14.0
+8480113.0,Alex Iafallo,L,Los Angeles Kings,1461.6666666666667,99,235,232,14.0
+8477960.0,Adrian Kempe,C,Los Angeles Kings,1449.5333333333333,99,235,232,14.0
+8476479.0,Phillip Danault,C,Los Angeles Kings,1431.9333333333334,99,235,232,14.0
+8478911.0,Matt Roy,D,Los Angeles Kings,1405.9,99,235,232,14.0
+8479675.0,Trevor Moore,C,Los Angeles Kings,1272.5166666666667,99,235,232,14.0
+8480434.0,Sean Durzi,D,Los Angeles Kings,1254.05,99,235,232,14.0
+8476874.0,Olli Maatta,D,Los Angeles Kings,1212.6166666666666,99,235,232,14.0
+8481600.0,Tobias Bjornfot,D,Los Angeles Kings,1174.7833333333333,99,235,232,14.0
+8479998.0,Mikey Anderson,D,Los Angeles Kings,1146.6333333333334,99,235,232,14.0
+8478042.0,Viktor Arvidsson,L,Los Angeles Kings,1120.6333333333334,99,235,232,14.0
+8481560.0,Arthur Kaliyev,R,Los Angeles Kings,1011.9333333333333,99,235,232,14.0
+8474563.0,Drew Doughty,D,Los Angeles Kings,1004.4833333333333,99,235,232,14.0
+8470606.0,Dustin Brown,R,Los Angeles Kings,946.4166666666666,99,235,232,14.0
+8481481.0,Blake Lizotte,C,Los Angeles Kings,851.4666666666667,99,235,232,14.0
+8471303.0,Alexander Edler,D,Los Angeles Kings,757.7666666666667,99,235,232,14.0
+8480845.0,Rasmus Kupari,C,Los Angeles Kings,674.1666666666666,99,235,232,14.0
+8479336.0,Carl Grundstrom,R,Los Angeles Kings,589.0833333333334,99,235,232,14.0
+8476463.0,Jonas Brodin,D,Minnesota Wild,1735.2166666666667,113,305,249,5.0
+8478864.0,Kirill Kaprizov,L,Minnesota Wild,1569.7,113,305,249,5.0
+8477451.0,Ryan Hartman,R,Minnesota Wild,1507.4833333333333,113,305,249,5.0
+8475179.0,Dmitry Kulikov,D,Minnesota Wild,1476.1166666666666,113,305,249,5.0
+8477942.0,Kevin Fiala,L,Minnesota Wild,1465.6166666666666,113,305,249,5.0
+8478493.0,Joel Eriksson Ek,C,Minnesota Wild,1449.1166666666666,113,305,249,5.0
+8474716.0,Jared Spurgeon,D,Minnesota Wild,1395.65,113,305,249,5.0
+8471274.0,Alex Goligoski,D,Minnesota Wild,1382.0333333333333,113,305,249,5.0
+8476856.0,Matt Dumba,D,Minnesota Wild,1336.75,113,305,249,5.0
+8475692.0,Mats Zuccarello,R,Minnesota Wild,1318.4,113,305,249,5.0
+8477919.0,Frederick Gaudreau,C,Minnesota Wild,1260.2,113,305,249,5.0
+8475220.0,Marcus Foligno,L,Minnesota Wild,1232.1833333333334,113,305,249,5.0
+8475750.0,Jon Merrill,D,Minnesota Wild,1197.2666666666667,113,305,249,5.0
+8478413.0,Jordan Greenway,L,Minnesota Wild,918.9,113,305,249,5.0
+8479520.0,Brandon Duhaime,R,Minnesota Wild,828.8166666666667,113,305,249,5.0
+8481557.0,Matt Boldy,L,Minnesota Wild,742.0666666666667,113,305,249,5.0
+8481477.0,Nico Sturm,C,Minnesota Wild,612.0666666666667,113,305,249,5.0
+8475760.0,Nick Bjugstad,C,Minnesota Wild,595.75,113,305,249,5.0
+8480018.0,Nick Suzuki,C,Montréal Canadiens,1681.8333333333333,55,218,317,32.0
+8481014.0,Alexander Romanov,D,Montréal Canadiens,1612.8666666666666,55,218,317,32.0
+8473507.0,Jeff Petry,D,Montréal Canadiens,1504.7,55,218,317,32.0
+8475233.0,David Savard,D,Montréal Canadiens,1289.0166666666667,55,218,317,32.0
+8475279.0,Ben Chiarot,D,Montréal Canadiens,1272.9666666666667,55,218,317,32.0
+8476981.0,Josh Anderson,R,Montréal Canadiens,1190.5166666666667,55,218,317,32.0
+8474884.0,Mike Hoffman,C,Montréal Canadiens,1142.6333333333334,55,218,317,32.0
+8478133.0,Jake Evans,C,Montréal Canadiens,1122.9666666666667,55,218,317,32.0
+8481540.0,Cole Caufield,R,Montréal Canadiens,1117.5833333333333,55,218,317,32.0
+8476967.0,Brett Kulak,D,Montréal Canadiens,1008.4833333333333,55,218,317,32.0
+8477989.0,Christian Dvorak,L,Montréal Canadiens,972.8833333333333,55,218,317,32.0
+8475227.0,Chris Wideman,D,Montréal Canadiens,953.1833333333333,55,218,317,32.0
+8477476.0,Artturi Lehkonen,L,Montréal Canadiens,854.1166666666667,55,218,317,32.0
+8475848.0,Brendan Gallagher,R,Montréal Canadiens,841.0333333333333,55,218,317,32.0
+8476469.0,Joel Armia,R,Montréal Canadiens,823.95,55,218,317,32.0
+8479514.0,Rem Pitlick,C,Montréal Canadiens,794.9,55,218,317,32.0
+8480068.0,Ryan Poehling,C,Montréal Canadiens,697.5333333333333,55,218,317,32.0
+8475726.0,Tyler Toffoli,R,Montréal Canadiens,650.15,55,218,317,32.0
+8474600.0,Roman Josi,D,Nashville Predators,2068.483333333333,97,262,250,16.0
+8475218.0,Mattias Ekholm,D,Nashville Predators,1810.5,97,262,250,16.0
+8475798.0,Mikael Granlund,C,Nashville Predators,1651.4666666666667,97,262,250,16.0
+8478851.0,Alexandre Carrier,D,Nashville Predators,1638.0,97,262,250,16.0
+8475168.0,Matt Duchene,C,Nashville Predators,1499.4333333333334,97,262,250,16.0
+8475793.0,Ryan Johansen,C,Nashville Predators,1325.5666666666666,97,262,250,16.0
+8479661.0,Tanner Jeannot,L,Nashville Predators,1313.3166666666666,97,262,250,16.0
+8476925.0,Colton Sissons,C,Nashville Predators,1292.6166666666666,97,262,250,16.0
+8479371.0,Dante Fabbro,D,Nashville Predators,1277.6166666666666,97,262,250,16.0
+8476887.0,Filip Forsberg,L,Nashville Predators,1265.2,97,262,250,16.0
+8478508.0,Yakov Trenin,C,Nashville Predators,1190.4166666666667,97,262,250,16.0
+8479316.0,Luke Kunin,C,Nashville Predators,1145.45,97,262,250,16.0
+8476988.0,Matt Benning,D,Nashville Predators,1068.1333333333334,97,262,250,16.0
+8480009.0,Eeli Tolvanen,R,Nashville Predators,1020.6166666666667,97,262,250,16.0
+8481577.0,Philip Tomasino,C,Nashville Predators,888.2833333333333,97,262,250,16.0
+8476393.0,Nick Cousins,C,Nashville Predators,860.9833333333333,97,262,250,16.0
+8474697.0,Mark Borowiecki,D,Nashville Predators,749.1166666666667,97,262,250,16.0
+8477446.0,Michael McCarron,R,Nashville Predators,541.7166666666667,97,262,250,16.0
+8476923.0,Damon Severson,D,New Jersey Devils,1912.4666666666667,63,245,302,28.0
+8477435.0,Ryan Graves,D,New Jersey Devils,1574.9666666666667,63,245,302,28.0
+8478399.0,Jonas Siegenthaler,D,New Jersey Devils,1461.4333333333334,63,245,302,28.0
+8474056.0,P.K. Subban,D,New Jersey Devils,1429.9166666666667,63,245,302,28.0
+8480002.0,Nico Hischier,C,New Jersey Devils,1373.15,63,245,302,28.0
+8482110.0,Dawson Mercer,C,New Jersey Devils,1372.25,63,245,302,28.0
+8479407.0,Jesper Bratt,L,New Jersey Devils,1340.7833333333333,63,245,302,28.0
+8476462.0,Dougie Hamilton,D,New Jersey Devils,1338.1666666666667,63,245,302,28.0
+8481068.0,Yegor Sharangovich,C,New Jersey Devils,1271.4333333333334,63,245,302,28.0
+8478401.0,Pavel Zacha,C,New Jersey Devils,1198.7833333333333,63,245,302,28.0
+8480883.0,Ty Smith,D,New Jersey Devils,1174.8333333333333,63,245,302,28.0
+8475193.0,Tomas Tatar,L,New Jersey Devils,1128.5666666666666,63,245,302,28.0
+8479415.0,Michael McLeod,C,New Jersey Devils,1042.65,63,245,302,28.0
+8477341.0,Andreas Johnsson,L,New Jersey Devils,1036.0,63,245,302,28.0
+8476918.0,Jimmy Vesey,L,New Jersey Devils,980.8333333333334,63,245,302,28.0
+8481559.0,Jack Hughes,C,New Jersey Devils,977.5833333333334,63,245,302,28.0
+8479511.0,Janne Kuokkanen,C,New Jersey Devils,785.7833333333333,63,245,302,28.0
+8479414.0,Nathan Bastian,R,New Jersey Devils,761.9833333333333,63,245,302,28.0
+8480865.0,Noah Dobson,D,New York Islanders,1739.4,84,229,231,20.0
+8476917.0,Adam Pelech,D,New York Islanders,1675.45,84,229,231,20.0
+8476419.0,Jean-Gabriel Pageau,C,New York Islanders,1381.8833333333334,84,229,231,20.0
+8465009.0,Zdeno Chara,D,New York Islanders,1369.65,84,229,231,20.0
+8478445.0,Mathew Barzal,C,New York Islanders,1333.55,84,229,231,20.0
+8475754.0,Brock Nelson,C,New York Islanders,1291.2,84,229,231,20.0
+8475314.0,Anders Lee,L,New York Islanders,1282.3166666666666,84,229,231,20.0
+8478463.0,Anthony Beauvillier,L,New York Islanders,1281.0,84,229,231,20.0
+8470610.0,Zach Parise,L,New York Islanders,1270.0666666666666,84,229,231,20.0
+8474573.0,Josh Bailey,R,New York Islanders,1265.2166666666667,84,229,231,20.0
+8472382.0,Andy Greene,D,New York Islanders,1224.6333333333334,84,229,231,20.0
+8476429.0,Scott Mayfield,D,New York Islanders,1207.65,84,229,231,20.0
+8477506.0,Ryan Pulock,D,New York Islanders,1183.9,84,229,231,20.0
+8475151.0,Kyle Palmieri,R,New York Islanders,1092.35,84,229,231,20.0
+8475231.0,Casey Cizikas,C,New York Islanders,1028.6,84,229,231,20.0
+8480789.0,Oliver Wahlstrom,R,New York Islanders,887.4333333333333,84,229,231,20.0
+8473504.0,Cal Clutterbuck,R,New York Islanders,828.4666666666667,84,229,231,20.0
+8474709.0,Matt Martin,L,New York Islanders,821.0666666666667,84,229,231,20.0
+8479323.0,Adam Fox,D,New York Rangers,1888.4,110,250,204,7.0
+8476885.0,Jacob Trouba,D,New York Rangers,1839.25,110,250,204,7.0
+8480817.0,K'Andre Miller,D,New York Rangers,1709.75,110,250,204,7.0
+8476459.0,Mika Zibanejad,C,New York Rangers,1612.5166666666667,110,250,204,7.0
+8479324.0,Ryan Lindgren,D,New York Rangers,1568.85,110,250,204,7.0
+8475184.0,Chris Kreider,L,New York Rangers,1536.2333333333333,110,250,204,7.0
+8478550.0,Artemi Panarin,L,New York Rangers,1459.7666666666667,110,250,204,7.0
+8476458.0,Ryan Strome,C,New York Rangers,1374.2333333333333,110,250,204,7.0
+8476624.0,Barclay Goodrow,C,New York Rangers,1336.7333333333333,110,250,204,7.0
+8482109.0,Alexis Lafrenière,L,New York Rangers,1118.35,110,250,204,7.0
+8475747.0,Patrik Nemeth,D,New York Rangers,1064.8,110,250,204,7.0
+8478211.0,Dryden Hunt,L,New York Rangers,949.05,110,250,204,7.0
+8480078.0,Filip Chytil,C,New York Rangers,895.3833333333333,110,250,204,7.0
+8479291.0,Kevin Rooney,C,New York Rangers,844.85,110,250,204,7.0
+8471817.0,Ryan Reaves,R,New York Rangers,746.3333333333334,110,250,204,7.0
+8481554.0,Kaapo Kakko,R,New York Rangers,678.3666666666667,110,250,204,7.0
+8482073.0,Braden Schneider,D,New York Rangers,665.4833333333333,110,250,204,7.0
+8479328.0,Julien Gauthier,R,New York Rangers,516.4166666666666,110,250,204,7.0
+8482245.0,Artem Zub,D,Ottawa Senators,1706.2166666666667,73,224,264,26.0
+8478469.0,Thomas Chabot,D,Ottawa Senators,1545.3333333333333,73,224,264,26.0
+8474207.0,Nick Holden,D,Ottawa Senators,1508.5,73,224,264,26.0
+8480801.0,Brady Tkachuk,L,Ottawa Senators,1485.9,73,224,264,26.0
+8482116.0,Tim Stützle,L,Ottawa Senators,1454.95,73,224,264,26.0
+8477015.0,Connor Brown,R,Ottawa Senators,1285.2833333333333,73,224,264,26.0
+8480064.0,Josh Norris,C,Ottawa Senators,1227.0166666666667,73,224,264,26.0
+8480029.0,Alex Formenton,L,Ottawa Senators,1220.6833333333334,73,224,264,26.0
+8479458.0,Nikita Zaitsev,D,Ottawa Senators,1177.3833333333334,73,224,264,26.0
+8480073.0,Erik Brannstrom,D,Ottawa Senators,1047.9166666666667,73,224,264,26.0
+8477426.0,Nicholas Paul,L,Ottawa Senators,1024.85,73,224,264,26.0
+8477482.0,Zach Sanford,L,Ottawa Senators,881.8666666666667,73,224,264,26.0
+8480208.0,Drake Batherson,R,Ottawa Senators,870.7166666666667,73,224,264,26.0
+8476919.0,Chris Tierney,C,Ottawa Senators,869.5166666666667,73,224,264,26.0
+8475766.0,Austin Watson,L,Ottawa Senators,803.9,73,224,264,26.0
+8479580.0,Dylan Gambrell,C,Ottawa Senators,764.5833333333334,73,224,264,26.0
+8474589.0,Tyler Ennis,R,Ottawa Senators,716.2333333333333,73,224,264,26.0
+8477384.0,Josh Brown,D,Ottawa Senators,643.9,73,224,264,26.0
+8478500.0,Ivan Provorov,D,Philadelphia Flyers,1967.3,61,210,294,29.0
+8477948.0,Travis Sanheim,D,Philadelphia Flyers,1838.1166666666666,61,210,294,29.0
+8477499.0,Rasmus Ristolainen,D,Philadelphia Flyers,1416.2333333333333,61,210,294,29.0
+8478439.0,Travis Konecny,R,Philadelphia Flyers,1391.4833333333333,61,210,294,29.0
+8474715.0,Cam Atkinson,R,Philadelphia Flyers,1334.1666666666667,61,210,294,29.0
+8474037.0,James van Riemsdyk,L,Philadelphia Flyers,1321.2166666666667,61,210,294,29.0
+8474027.0,Justin Braun,D,Philadelphia Flyers,1222.2666666666667,61,210,294,29.0
+8480797.0,Joel Farabee,L,Philadelphia Flyers,1110.6166666666666,61,210,294,29.0
+8476872.0,Scott Laughton,C,Philadelphia Flyers,1102.5166666666667,61,210,294,29.0
+8473512.0,Claude Giroux,R,Philadelphia Flyers,1098.5833333333333,61,210,294,29.0
+8478067.0,Oskar Lindblom,L,Philadelphia Flyers,1091.4,61,210,294,29.0
+8471735.0,Keith Yandle,D,Philadelphia Flyers,1076.3833333333334,61,210,294,29.0
+8475763.0,Kevin Hayes,C,Philadelphia Flyers,860.3333333333334,61,210,294,29.0
+8480028.0,Morgan Frost,C,Philadelphia Flyers,765.7333333333333,61,210,294,29.0
+8479772.0,Zack MacEwen,C,Philadelphia Flyers,724.75,61,210,294,29.0
+8476461.0,Sean Couturier,C,Philadelphia Flyers,591.4833333333333,61,210,294,29.0
+8481546.0,Cam York,D,Philadelphia Flyers,572.4333333333333,61,210,294,29.0
+8476372.0,Nick Seeler,D,Philadelphia Flyers,563.5166666666667,61,210,294,29.0
+8471724.0,Kris Letang,D,Pittsburgh Penguins,2032.9666666666667,103,269,222,12.0
+8478507.0,John Marino,D,Pittsburgh Penguins,1692.1666666666667,103,269,222,12.0
+8475208.0,Brian Dumoulin,D,Pittsburgh Penguins,1678.0833333333333,103,269,222,12.0
+8477404.0,Jake Guentzel,L,Pittsburgh Penguins,1545.4666666666667,103,269,222,12.0
+8476875.0,Mike Matheson,D,Pittsburgh Penguins,1408.9833333333333,103,269,222,12.0
+8471675.0,Sidney Crosby,C,Pittsburgh Penguins,1395.1833333333334,103,269,222,12.0
+8470604.0,Jeff Carter,C,Pittsburgh Penguins,1359.4666666666667,103,269,222,12.0
+8478542.0,Evan Rodrigues,C,Pittsburgh Penguins,1313.3666666666666,103,269,222,12.0
+8477244.0,Chad Ruhwedel,D,Pittsburgh Penguins,1215.2,103,269,222,12.0
+8477953.0,Kasperi Kapanen,R,Pittsburgh Penguins,1164.5833333333333,103,269,222,12.0
+8477969.0,Marcus Pettersson,D,Pittsburgh Penguins,1146.0333333333333,103,269,222,12.0
+8475810.0,Bryan Rust,R,Pittsburgh Penguins,1143.6166666666666,103,269,222,12.0
+8476927.0,Teddy Blueger,C,Pittsburgh Penguins,990.5666666666667,103,269,222,12.0
+8478046.0,Danton Heinen,L,Pittsburgh Penguins,978.5166666666667,103,269,222,12.0
+8476934.0,Brock McGinn,L,Pittsburgh Penguins,974.3166666666667,103,269,222,12.0
+8471215.0,Evgeni Malkin,C,Pittsburgh Penguins,751.5166666666667,103,269,222,12.0
+8470619.0,Brian Boyle,C,Pittsburgh Penguins,724.1666666666666,103,269,222,12.0
+8479944.0,Zach Aston-Reese,C,Pittsburgh Penguins,685.7333333333333,103,269,222,12.0
+8470613.0,Brent Burns,D,San Jose Sharks,2158.3333333333335,77,211,261,22.0
+8476881.0,Tomas Hertl,C,San Jose Sharks,1645.9166666666667,77,211,261,22.0
+8478414.0,Timo Meier,R,San Jose Sharks,1476.1166666666666,77,211,261,22.0
+8474053.0,Logan Couture,C,San Jose Sharks,1467.7333333333333,77,211,261,22.0
+8479983.0,Mario Ferraro,D,San Jose Sharks,1466.0833333333333,77,211,261,22.0
+8474009.0,Nick Bonino,C,San Jose Sharks,1344.9666666666667,77,211,261,22.0
+8482222.0,Alexander Barabanov,L,San Jose Sharks,1214.25,77,211,261,22.0
+8474578.0,Erik Karlsson,D,San Jose Sharks,1173.5166666666667,77,211,261,22.0
+8471709.0,Marc-Edouard Vlasic,D,San Jose Sharks,1141.15,77,211,261,22.0
+8476442.0,Matt Nieto,L,San Jose Sharks,1008.25,77,211,261,22.0
+8479393.0,Noah Gregor,C,San Jose Sharks,940.95,77,211,261,22.0
+8478870.0,Rudolfs Balcers,L,San Jose Sharks,927.4833333333333,77,211,261,22.0
+8478136.0,Jacob Middleton,D,San Jose Sharks,857.0333333333333,77,211,261,22.0
+8477034.0,Jaycob Megna,D,San Jose Sharks,853.3666666666667,77,211,261,22.0
+8478467.0,Nicolas Meloche,D,San Jose Sharks,852.8333333333334,77,211,261,22.0
+8479373.0,Jonathan Dahlen,C,San Jose Sharks,850.1,77,211,261,22.0
+8471699.0,Andrew Cogliano,C,San Jose Sharks,747.7166666666667,77,211,261,22.0
+8480847.0,Ryan Merkley,D,San Jose Sharks,609.2666666666667,77,211,261,22.0
+8476457.0,Adam Larsson,D,Seattle Kraken,1826.75,60,213,284,30.0
+8478407.0,Vince Dunn,D,Seattle Kraken,1509.3166666666666,60,213,284,30.0
+8477505.0,Alex Wennberg,C,Seattle Kraken,1428.15,60,213,284,30.0
+8474586.0,Jordan Eberle,R,Seattle Kraken,1418.2333333333333,60,213,284,30.0
+8476467.0,Jamie Oleksiak,D,Seattle Kraken,1391.9666666666667,60,213,284,30.0
+8476826.0,Yanni Gourde,C,Seattle Kraken,1367.7666666666667,60,213,284,30.0
+8477955.0,Jared McCann,L,Seattle Kraken,1194.2166666666667,60,213,284,30.0
+8470966.0,Mark Giordano,D,Seattle Kraken,1181.9333333333334,60,213,284,30.0
+8477369.0,Carson Soucy,D,Seattle Kraken,1130.2333333333333,60,213,284,30.0
+8475820.0,Joonas Donskoi,R,Seattle Kraken,1112.7833333333333,60,213,284,30.0
+8477987.0,Ryan Donato,C,Seattle Kraken,1020.85,60,213,284,30.0
+8478468.0,Jeremy Lauzon,D,Seattle Kraken,944.3166666666667,60,213,284,30.0
+8479987.0,Morgan Geekie,C,Seattle Kraken,921.2833333333333,60,213,284,30.0
+8475149.0,Marcus Johansson,L,Seattle Kraken,845.65,60,213,284,30.0
+8475772.0,Riley Sheahan,C,Seattle Kraken,831.9666666666667,60,213,284,30.0
+8475714.0,Calle Jarnkrok,C,Seattle Kraken,823.3333333333334,60,213,284,30.0
+8478891.0,Mason Appleton,C,Seattle Kraken,700.9,60,213,284,30.0
+8475768.0,Jaden Schwartz,C,Seattle Kraken,683.0833333333334,60,213,284,30.0
+8476892.0,Colton Parayko,D,St. Louis Blues,1912.6333333333334,109,309,239,9.0
+8475753.0,Justin Faulk,D,St. Louis Blues,1791.2166666666667,109,309,239,9.0
+8475158.0,Ryan O'Reilly,C,St. Louis Blues,1507.8833333333334,109,309,239,9.0
+8480023.0,Robert Thomas,C,St. Louis Blues,1375.5,109,309,239,9.0
+8477402.0,Pavel Buchnevich,L,St. Louis Blues,1355.6666666666667,109,309,239,9.0
+8477964.0,Ivan Barbashev,C,St. Louis Blues,1348.2,109,309,239,9.0
+8476792.0,Torey Krug,D,St. Louis Blues,1315.8166666666666,109,309,239,9.0
+8476438.0,Brandon Saad,L,St. Louis Blues,1290.6,109,309,239,9.0
+8475765.0,Vladimir Tarasenko,R,St. Louis Blues,1290.3833333333334,109,309,239,9.0
+8474618.0,Marco Scandella,D,St. Louis Blues,1288.95,109,309,239,9.0
+8479385.0,Jordan Kyrou,C,St. Louis Blues,1245.0,109,309,239,9.0
+8474102.0,David Perron,L,St. Louis Blues,1156.9666666666667,109,309,239,9.0
+8475170.0,Brayden Schenn,C,St. Louis Blues,1103.4,109,309,239,9.0
+8474145.0,Robert Bortuzzo,D,St. Louis Blues,1016.1833333333333,109,309,239,9.0
+8478859.0,Niko Mikkola,D,St. Louis Blues,916.8,109,309,239,9.0
+8475098.0,Tyler Bozak,C,St. Louis Blues,625.65,109,309,239,9.0
+8476897.0,Oskar Sundqvist,C,St. Louis Blues,547.6666666666666,109,309,239,9.0
+8475181.0,Nick Leddy,D,St. Louis Blues,420.96666666666664,109,309,239,9.0
+8475167.0,Victor Hedman,D,Tampa Bay Lightning,2060.75,110,285,228,8.0
+8479410.0,Mikhail Sergachev,D,Tampa Bay Lightning,1754.85,110,285,228,8.0
+8474151.0,Ryan McDonagh,D,Tampa Bay Lightning,1594.0,110,285,228,8.0
+8473986.0,Alex Killorn,L,Tampa Bay Lightning,1535.8166666666666,110,285,228,8.0
+8474564.0,Steven Stamkos,C,Tampa Bay Lightning,1498.3,110,285,228,8.0
+8478519.0,Anthony Cirelli,C,Tampa Bay Lightning,1391.7333333333333,110,285,228,8.0
+8478010.0,Brayden Point,C,Tampa Bay Lightning,1284.4833333333333,110,285,228,8.0
+8476292.0,Ondrej Palat,L,Tampa Bay Lightning,1270.25,110,285,228,8.0
+8480172.0,Jan Rutta,D,Tampa Bay Lightning,1248.3333333333333,110,285,228,8.0
+8470621.0,Corey Perry,R,Tampa Bay Lightning,1108.6333333333334,110,285,228,8.0
+8477930.0,Pierre-Edouard Bellemare,L,Tampa Bay Lightning,1100.5833333333333,110,285,228,8.0
+8478416.0,Erik Cernak,D,Tampa Bay Lightning,1054.3833333333334,110,285,228,8.0
+8479525.0,Ross Colton,C,Tampa Bay Lightning,1010.6166666666667,110,285,228,8.0
+8474034.0,Pat Maroon,L,Tampa Bay Lightning,1004.4666666666667,110,285,228,8.0
+8476453.0,Nikita Kucherov,R,Tampa Bay Lightning,939.4,110,285,228,8.0
+8478472.0,Mathieu Joseph,R,Tampa Bay Lightning,794.8,110,285,228,8.0
+8474567.0,Zach Bogosian,D,Tampa Bay Lightning,737.4,110,285,228,8.0
+8479984.0,Cal Foote,D,Tampa Bay Lightning,735.05,110,285,228,8.0
+8476853.0,Morgan Rielly,D,Toronto Maple Leafs,1948.5666666666666,115,312,252,4.0
+8474673.0,TJ Brodie,D,Toronto Maple Leafs,1750.8333333333333,115,312,252,4.0
+8479318.0,Auston Matthews,C,Toronto Maple Leafs,1505.2833333333333,115,312,252,4.0
+8478483.0,Mitchell Marner,R,Toronto Maple Leafs,1504.8833333333334,115,312,252,4.0
+8477939.0,William Nylander,R,Toronto Maple Leafs,1485.3833333333334,115,312,252,4.0
+8475166.0,John Tavares,C,Toronto Maple Leafs,1432.6333333333334,115,312,252,4.0
+8475718.0,Justin Holl,D,Toronto Maple Leafs,1401.1,115,312,252,4.0
+8480144.0,David Kampf,C,Toronto Maple Leafs,1252.6166666666666,115,312,252,4.0
+8477021.0,Alexander Kerfoot,C,Toronto Maple Leafs,1250.8666666666666,115,312,252,4.0
+8478047.0,Michael Bunting,L,Toronto Maple Leafs,1228.65,115,312,252,4.0
+8478115.0,Pierre Engvall,L,Toronto Maple Leafs,1036.5,115,312,252,4.0
+8480043.0,Timothy Liljegren,D,Toronto Maple Leafs,1004.9166666666666,115,312,252,4.0
+8474162.0,Jake Muzzin,D,Toronto Maple Leafs,977.1,115,312,252,4.0
+8480873.0,Rasmus Sandin,D,Toronto Maple Leafs,866.35,115,312,252,4.0
+8481624.0,Ilya Mikheyev,R,Toronto Maple Leafs,810.3,115,312,252,4.0
+8469455.0,Jason Spezza,C,Toronto Maple Leafs,764.7833333333333,115,312,252,4.0
+8478131.0,Ondrej Kase,R,Toronto Maple Leafs,702.6666666666666,115,312,252,4.0
+8474190.0,Wayne Simmonds,R,Toronto Maple Leafs,673.1333333333333,115,312,252,4.0
+8480800.0,Quinn Hughes,D,Vancouver Canucks,1917.55,92,246,231,18.0
+8474574.0,Tyler Myers,D,Vancouver Canucks,1802.2166666666667,92,246,231,18.0
+8475171.0,Oliver Ekman-Larsson,D,Vancouver Canucks,1763.9833333333333,92,246,231,18.0
+8476468.0,J.T. Miller,C,Vancouver Canucks,1687.5833333333333,92,246,231,18.0
+8480012.0,Elias Pettersson,C,Vancouver Canucks,1487.6,92,246,231,18.0
+8477500.0,Bo Horvat,C,Vancouver Canucks,1365.2166666666667,92,246,231,18.0
+8478444.0,Brock Boeser,R,Vancouver Canucks,1318.65,92,246,231,18.0
+8478856.0,Conor Garland,R,Vancouver Canucks,1263.15,92,246,231,18.0
+8474568.0,Luke Schenn,D,Vancouver Canucks,1135.85,92,246,231,18.0
+8476871.0,Tanner Pearson,L,Vancouver Canucks,1091.7333333333333,92,246,231,18.0
+8481617.0,Vasily Podkolzin,R,Vancouver Canucks,1010.5833333333334,92,246,231,18.0
+8477996.0,Juho Lammikko,L,Vancouver Canucks,920.8833333333333,92,246,231,18.0
+8477450.0,Jason Dickinson,C,Vancouver Canucks,809.2166666666667,92,246,231,18.0
+8481535.0,Nils Hoglander,L,Vancouver Canucks,785.8,92,246,231,18.0
+8475163.0,Alex Chiasson,R,Vancouver Canucks,778.6833333333333,92,246,231,18.0
+8476779.0,Brad Hunt,D,Vancouver Canucks,763.9666666666667,92,246,231,18.0
+8477353.0,Tyler Motte,C,Vancouver Canucks,699.6833333333333,92,246,231,18.0
+8477359.0,Tucker Poolman,D,Vancouver Canucks,680.05,92,246,231,18.0
+8474565.0,Alex Pietrangelo,D,Vegas Golden Knights,1975.9166666666667,94,262,244,17.0
+8477447.0,Shea Theodore,D,Vegas Golden Knights,1805.4833333333333,94,262,244,17.0
+8476905.0,Chandler Stephenson,C,Vegas Golden Knights,1530.6333333333334,94,262,244,17.0
+8475188.0,Brayden McNabb,D,Vegas Golden Knights,1360.1333333333334,94,262,244,17.0
+8476539.0,Jonathan Marchessault,C,Vegas Golden Knights,1338.0666666666666,94,262,244,17.0
+8478462.0,Nicolas Roy,C,Vegas Golden Knights,1269.9166666666667,94,262,244,17.0
+8474149.0,Evgenii Dadonov,R,Vegas Golden Knights,1239.9833333333333,94,262,244,17.0
+8476448.0,William Karlsson,C,Vegas Golden Knights,1227.1666666666667,94,262,244,17.0
+8480727.0,Zach Whitecloud,D,Vegas Golden Knights,1112.5166666666667,94,262,244,17.0
+8475191.0,Reilly Smith,R,Vegas Golden Knights,998.6666666666666,94,262,244,17.0
+8478434.0,Keegan Kolesar,R,Vegas Golden Knights,976.0166666666667,94,262,244,17.0
+8479980.0,Nicolas Hague,D,Vegas Golden Knights,970.3833333333333,94,262,244,17.0
+8477406.0,Mattias Janmark,C,Vegas Golden Knights,964.2333333333333,94,262,244,17.0
+8477018.0,Ben Hutton,D,Vegas Golden Knights,902.8666666666667,94,262,244,17.0
+8479639.0,Dylan Coghlan,D,Vegas Golden Knights,838.15,94,262,244,17.0
+8477478.0,William Carrier,L,Vegas Golden Knights,733.7166666666667,94,262,244,17.0
+8475913.0,Mark Stone,R,Vegas Golden Knights,680.7333333333333,94,262,244,17.0
+8474157.0,Max Pacioretty,L,Vegas Golden Knights,679.05,94,262,244,17.0
+8474590.0,John Carlson,D,Washington Capitals,1902.0,100,270,242,13.0
+8475744.0,Evgeny Kuznetsov,C,Washington Capitals,1641.4666666666667,100,270,242,13.0
+8475200.0,Dmitry Orlov,D,Washington Capitals,1635.0166666666667,100,270,242,13.0
+8471214.0,Alex Ovechkin,L,Washington Capitals,1602.6166666666666,100,270,242,13.0
+8480796.0,Martin Fehervary,D,Washington Capitals,1588.5166666666667,100,270,242,13.0
+8475324.0,Nick Jensen,D,Washington Capitals,1507.35,100,270,242,13.0
+8476880.0,Tom Wilson,R,Washington Capitals,1489.7833333333333,100,270,242,13.0
+8477845.0,Trevor van Riemsdyk,D,Washington Capitals,1293.8,100,270,242,13.0
+8474602.0,Justin Schultz,D,Washington Capitals,1290.6833333333334,100,270,242,13.0
+8474189.0,Lars Eller,C,Washington Capitals,1189.2333333333333,100,270,242,13.0
+8477839.0,Conor Sheary,L,Washington Capitals,1117.2833333333333,100,270,242,13.0
+8477903.0,Garnet Hathaway,R,Washington Capitals,1042.7666666666667,100,270,242,13.0
+8475343.0,Nic Dowd,C,Washington Capitals,925.6166666666667,100,270,242,13.0
+8473563.0,Nicklas Backstrom,C,Washington Capitals,839.2833333333333,100,270,242,13.0
+8471698.0,T.J. Oshie,R,Washington Capitals,788.4833333333333,100,270,242,13.0
+8474176.0,Carl Hagelin,L,Washington Capitals,772.2666666666667,100,270,242,13.0
+8481580.0,Connor McMichael,C,Washington Capitals,724.0,100,270,242,13.0
+8478466.0,Daniel Sprong,R,Washington Capitals,611.5,100,270,242,13.0
+8477504.0,Josh Morrissey,D,Winnipeg Jets,1870.0166666666667,89,250,253,19.0
+8478398.0,Kyle Connor,L,Winnipeg Jets,1722.2166666666667,89,250,253,19.0
+8480145.0,Neal Pionk,D,Winnipeg Jets,1628.4333333333334,89,250,253,19.0
+8477220.0,Nate Schmidt,D,Winnipeg Jets,1557.0333333333333,89,250,253,19.0
+8479400.0,Pierre-Luc Dubois,L,Winnipeg Jets,1533.45,89,250,253,19.0
+8475455.0,Brenden Dillon,D,Winnipeg Jets,1488.5166666666667,89,250,253,19.0
+8476460.0,Mark Scheifele,C,Winnipeg Jets,1415.9666666666667,89,250,253,19.0
+8476331.0,Dylan DeMelo,D,Winnipeg Jets,1405.9333333333334,89,250,253,19.0
+8471218.0,Blake Wheeler,R,Winnipeg Jets,1270.0166666666667,89,250,253,19.0
+8471669.0,Paul Stastny,C,Winnipeg Jets,1262.6,89,250,253,19.0
+8476392.0,Adam Lowry,C,Winnipeg Jets,1222.95,89,250,253,19.0
+8477940.0,Nikolaj Ehlers,L,Winnipeg Jets,1120.35,89,250,253,19.0
+8477429.0,Andrew Copp,C,Winnipeg Jets,1109.9,89,250,253,19.0
+8479378.0,Logan Stanley,D,Winnipeg Jets,907.4166666666666,89,250,253,19.0
+8478431.0,Evgeny Svechnikov,L,Winnipeg Jets,775.3,89,250,253,19.0
+8478424.0,Jansen Harkins,C,Winnipeg Jets,730.4666666666667,89,250,253,19.0
+8476952.0,Dominic Toninato,C,Winnipeg Jets,646.6833333333333,89,250,253,19.0
+8480005.0,Kristian Vesalainen,L,Winnipeg Jets,459.53333333333336,89,250,253,19.0

@@ -1,0 +1,788 @@
+TEAM,POS,TYPE,HAND,WGT,HGT,NAME,Name,PlayerId,fullName,Type
+ANA,LD,TWD,LEFT,207 lb,"6' 1""",CAM FOWLER,Cam Fowler,8475764.0,Cam Fowler,Two-Way Defenseman
+ANA,RW,PLY,RIGHT,196 lb,"6' 0""",RICKARD RAKELL,Rickard Rakell,8476483.0,Rickard Rakell,Playmaker
+ANA,C,TWF,LEFT,188 lb,"6' 0""",ADAM HENRIQUE,Adam Henrique,8474641.0,Adam Henrique,Two-Way Forward
+ANA,LD,TWD,LEFT,208 lb,"6' 3""",HAMPUS LINDHOLM,Hampus Lindholm,8476854.0,Hampus Lindholm,Two-Way Defenseman
+ANA,RD,OFD,RIGHT,203 lb,"6' 0""",KEVIN SHATTENKIRK,Kevin Shattenkirk,8474031.0,Kevin Shattenkirk,Offensive Defenseman
+ANA,LW,PWF,LEFT,215 lb,"6' 2""",MAXIME COMTOIS,Maxime Comtois,8480031.0,Max Comtois,Power Forward
+ANA,C,PLY,RIGHT,227 lb,"6' 4""",RYAN GETZLAF,Ryan Getzlaf,8470612.0,Ryan Getzlaf,Playmaker
+ANA,RW,TWF,RIGHT,208 lb,"6' 0""",JAKOB SILFVERBERG,Jakob Silfverberg,8475164.0,Jakob Silfverberg,Two-Way Forward
+ANA,RD,OFD,RIGHT,181 lb,"5' 11""",JAMIE DRYSDALE,Jamie Drysdale,8482142.0,Jamie Drysdale,Offensive Defenseman
+ANA,RD,DFD,RIGHT,224 lb,"6' 3""",JOSH MANSON,Josh Manson,8476312.0,Josh Manson,Defensive Defenseman
+ANA,LW,PWF,LEFT,220 lb,"6' 1""",MAX JONES,Max Jones,8479368.0,Max Jones,Power Forward
+ANA,RW,TWF,RIGHT,180 lb,"6' 0""",TROY TERRY,Troy Terry,8478873.0,Troy Terry,Two-Way Forward
+ANA,LD,DFD,LEFT,190 lb,"6' 2""",JACOB LARSSON,Jacob Larsson,8478491.0,Jacob Larsson,Defensive Defenseman
+ANA,C,PLY,LEFT,189 lb,"5' 11""",SAM STEEL,Sam Steel,8479351.0,Sam Steel,Playmaker
+ANA,LW,TWF,LEFT,194 lb,"6' 0""",SONNY MILANO,Sonny Milano,8477947.0,Sonny Milano,Two-Way Forward
+ANA,RW,GRN,RIGHT,231 lb,"6' 6""",BUDDY ROBINSON,Buddy Robinson,8477210.0,Buddy Robinson,Grinder
+ANA,C,TWF,LEFT,206 lb,"6' 3""",DEREK GRANT,Derek Grant,8474683.0,Derek Grant,Two-Way Forward
+ANA,C,TWF,LEFT,187 lb,"6' 0""",ISAC LUNDESTROM,Isac Lundestrom,8480806.0,Isac Lundestrom,Two-Way Forward
+ANA,LW,GRN,LEFT,219 lb,"6' 3""",NICOLAS DESLAURIERS,Nicolas Deslauriers,8475235.0,Nicolas Deslauriers,Grinder
+ANA,RW,SNP,LEFT,192 lb,"6' 1""",ALEXANDER VOLKOV,Alexander Volkov,8480186.0,Alexander Volkov,Sniper
+ANA,LD,TWD,LEFT,185 lb,"6' 0""",JOSH MAHURA,Josh Mahura,8479372.0,Josh Mahura,Two-Way Defenseman
+ANA,C,TWF,RIGHT,202 lb,"6' 2""",RYAN KESLER,Ryan Kesler,8470616.0,Ryan Kesler,Two-Way Forward
+ARI,LW,PLY,LEFT,170 lb,"5' 10""",CLAYTON KELLER,Clayton Keller,8479343.0,Clayton Keller,Playmaker
+ARI,LD,TWD,LEFT,210 lb,"6' 2""",JAKOB CHYCHRUN,Jakob Chychrun,8479345.0,Jakob Chychrun,Two-Way Defenseman
+ARI,C,TWF,RIGHT,177 lb,"6' 0""",NICK SCHMALTZ,Nick Schmaltz,8477951.0,Nick Schmaltz,Two-Way Forward
+ARI,RW,SNP,RIGHT,202 lb,"6' 0""",PHIL KESSEL,Phil Kessel,8473548.0,Phil Kessel,Sniper
+ARI,C,TWF,LEFT,202 lb,"6' 1""",DERICK BRASSARD,Derick Brassard,8473544.0,Derick Brassard,Two-Way Forward
+ARI,LW,TWF,LEFT,190 lb,"6' 0""",RYAN DZINGEL,Ryan Dzingel,8476288.0,Ryan Dzingel,Two-Way Forward
+ARI,LD,OFD,LEFT,181 lb,"5' 11""",SHAYNE GOSTISBEHERE,Shayne Gostisbehere,8476906.0,Shayne Gostisbehere,Offensive Defenseman
+ARI,C,PLY,LEFT,207 lb,"6' 1""",ALEX GALCHENYUK,Alex Galchenyuk,8476851.0,Alex Galchenyuk,Playmaker
+ARI,LW,GRN,LEFT,199 lb,"5' 11""",ANTOINE ROUSSEL,Antoine Roussel,8474849.0,Antoine Roussel,Grinder
+ARI,RD,DFD,RIGHT,186 lb,"5' 11""",ANTON STRALMAN,Anton Stralman,8471873.0,Anton Stralman,Defensive Defenseman
+ARI,RW,TWF,RIGHT,214 lb,"6' 2""",CHRISTIAN FISCHER,Christian Fischer,8478432.0,Christian Fischer,Two-Way Forward
+ARI,LW,PWF,LEFT,216 lb,"6' 2""",DMITRIJ JASKIN,Dmitrij Jaskin,8476436.0,Dmitrij Jaskin,Power Forward
+ARI,C,TWF,RIGHT,210 lb,"6' 3""",JAY BEAGLE,Jay Beagle,8474291.0,Jay Beagle,Two-Way Forward
+ARI,C,TWF,LEFT,204 lb,"5' 11""",JOHAN LARSSON,Johan Larsson,8475728.0,Johan Larsson,Two-Way Forward
+ARI,LW,PWF,LEFT,220 lb,"6' 4""",LAWSON CROUSE,Lawson Crouse,8478474.0,Lawson Crouse,Power Forward
+ARI,C,TWF,LEFT,190 lb,"6' 1""",BARRETT HAYTON,Barrett Hayton,8480849.0,Barrett Hayton,Two-Way Forward
+ARI,C,TWF,RIGHT,190 lb,"6' 0""",TRAVIS BOYD,Travis Boyd,8476329.0,Travis Boyd,Two-Way Forward
+ARI,RD,TWD,RIGHT,185 lb,"6' 2""",CONOR TIMMINS,Conor Timmins,8479982.0,Conor Timmins,Two-Way Defenseman
+ARI,RD,DFD,RIGHT,201 lb,"6' 2""",ILYA LYUBUSHKIN,Ilya Lyubushkin,8480950.0,Ilya Lyubushkin,Defensive Defenseman
+ARI,LW,TWF,LEFT,179 lb,"6' 2""",LOUI ERIKSSON,Loui Eriksson,8470626.0,Loui Eriksson,Two-Way Forward
+ARI,RD,TWD,RIGHT,196 lb,"6' 0""",VICTOR SODERSTROM,Victor Soderstrom,8481599.0,Victor Soderstrom,Two-Way Defenseman
+BOS,LW,TWF,LEFT,181 lb,"5' 9""",BRAD MARCHAND,Brad Marchand,8473419.0,Brad Marchand,Two-Way Forward
+BOS,RW,SNP,RIGHT,194 lb,"6' 0""",DAVID PASTRNAK,David Pastrnak,8477956.0,David Pastrnak,Sniper
+BOS,C,TWF,RIGHT,195 lb,"6' 1""",PATRICE BERGERON,Patrice Bergeron,8470638.0,Patrice Bergeron,Two-Way Forward
+BOS,LW,SNP,LEFT,206 lb,"6' 1""",TAYLOR HALL,Taylor Hall,8475791.0,Taylor Hall,Sniper
+BOS,RD,TWD,RIGHT,208 lb,"6' 0""",CHARLIE MCAVOY,Charlie Mcavoy,8479325.0,Charlie McAvoy,Two-Way Defenseman
+BOS,C,PWF,RIGHT,214 lb,"6' 3""",CHARLIE COYLE,Charlie Coyle,8475745.0,Charlie Coyle,Power Forward
+BOS,RW,TWF,RIGHT,208 lb,"6' 1""",CRAIG SMITH,Craig Smith,8475225.0,Craig Smith,Two-Way Forward
+BOS,C,PLY,LEFT,193 lb,"6' 0""",ERIK HAULA,Erik Haula,8475287.0,Erik Haula,Playmaker
+BOS,LW,SNP,LEFT,194 lb,"6' 0""",JAKE DEBRUSK,Jake Debrusk,8478498.0,Jake DeBrusk,Sniper
+BOS,LD,OFD,LEFT,174 lb,"5' 9""",MATT GRZELCYK,Matt Grzelcyk,8476891.0,Matt Grzelcyk,Offensive Defenseman
+BOS,LW,TWF,LEFT,211 lb,"6' 0""",NICK FOLIGNO,Nick Foligno,8473422.0,Nick Foligno,Two-Way Forward
+BOS,RD,DFD,RIGHT,212 lb,"6' 5""",BRANDON CARLO,Brandon Carlo,8478443.0,Brandon Carlo,Defensive Defenseman
+BOS,LD,TWD,LEFT,200 lb,"6' 1""",MIKE REILLY,Mike Reilly,8476422.0,Mike Reilly,Two-Way Defenseman
+BOS,C,PWF,LEFT,203 lb,"6' 2""",TRENT FREDERIC,Trent Frederic,8479365.0,Trent Frederic,Power Forward
+BOS,RW,TWF,RIGHT,198 lb,"6' 0""",CHRIS WAGNER,Chris Wagner,8475780.0,Chris Wagner,Two-Way Forward
+BOS,RD,TWD,RIGHT,175 lb,"5' 11""",CONNOR CLIFTON,Connor Clifton,8477365.0,Connor Clifton,Two-Way Defenseman
+BOS,C,TWF,RIGHT,193 lb,"6' 0""",CURTIS LAZAR,Curtis Lazar,8477508.0,Curtis Lazar,Two-Way Forward
+BOS,LD,DFD,LEFT,219 lb,"6' 4""",DEREK FORBORT,Derek Forbort,8475762.0,Derek Forbort,Defensive Defenseman
+BOS,LD,DFD,LEFT,210 lb,"6' 2""",JOHN MOORE,John Moore,8475186.0,John Moore,Defensive Defenseman
+BOS,C,TWF,LEFT,205 lb,"6' 3""",TOMAS NOSEK,Tomas Nosek,8477931.0,Tomas Nosek,Two-Way Forward
+BOS,C,TWF,RIGHT,171 lb,"6' 1""",JACK STUDNICKA,Jack Studnicka,8480021.0,Jack Studnicka,Two-Way Forward
+BOS,LW,GRN,LEFT,201 lb,"6' 0""",ANTON BLIDH,Anton Blidh,8477320.0,Anton Blidh,Grinder
+BOS,LD,TWD,LEFT,200 lb,"6' 0""",JAKUB ZBORIL,Jakub Zboril,8478415.0,Jakub Zboril,Two-Way Defenseman
+BOS,C,TWF,RIGHT,185 lb,"5' 11""",KARSON KUHLMAN,Karson Kuhlman,8480901.0,Karson Kuhlman,Two-Way Forward
+BUF,C,PLY,RIGHT,213 lb,"6' 2""",JACK EICHEL,Jack Eichel,8478403.0,Jack Eichel,Playmaker
+BUF,C,TWF,RIGHT,188 lb,"6' 3""",DYLAN COZENS,Dylan Cozens,8481528.0,Dylan Cozens,Two-Way Forward
+BUF,LD,TWD,LEFT,207 lb,"6' 3""",RASMUS DAHLIN,Rasmus Dahlin,8480839.0,Rasmus Dahlin,Two-Way Defenseman
+BUF,LW,SNP,LEFT,182 lb,"5' 11""",VICTOR OLOFSSON,Victor Olofsson,8478109.0,Victor Olofsson,Sniper
+BUF,LD,TWD,LEFT,190 lb,"5' 10""",WILL BUTCHER,Will Butcher,8477355.0,Will Butcher,Two-Way Defenseman
+BUF,RD,TWD,RIGHT,199 lb,"6' 1""",COLIN MILLER,Colin Miller,8476525.0,Colin Miller,Two-Way Defenseman
+BUF,LW,TWF,LEFT,176 lb,"5' 10""",DRAKE CAGGIULA,Drake Caggiula,8479465.0,Drake Caggiula,Two-Way Forward
+BUF,RD,TWD,RIGHT,199 lb,"6' 0""",HENRI JOKIHARJU,Henri Jokiharju,8480035.0,Henri Jokiharju,Two-Way Defenseman
+BUF,LW,SNP,LEFT,197 lb,"5' 11""",JEFF SKINNER,Jeff Skinner,8475784.0,Jeff Skinner,Sniper
+BUF,C,TWF,LEFT,189 lb,"5' 11""",RASMUS ASPLUND,Rasmus Asplund,8479335.0,Rasmus Asplund,Two-Way Forward
+BUF,RW,TWF,RIGHT,177 lb,"5' 9""",VINNIE HINOSTROZA,Vinnie Hinostroza,8476994.0,Vinnie Hinostroza,Two-Way Forward
+BUF,C,TWF,LEFT,213 lb,"6' 2""",ZEMGUS GIRGENSONS,Zemgus Girgensons,8476878.0,Zemgus Girgensons,Two-Way Forward
+BUF,LW,TWF,LEFT,196 lb,"6' 0""",ANDERS BJORK,Anders Bjork,8478075.0,Anders Bjork,Two-Way Forward
+BUF,C,PLY,LEFT,196 lb,"6' 1""",CASEY MITTELSTADT,Casey Mittelstadt,8479999.0,Casey Mittelstadt,Playmaker
+BUF,C,TWF,LEFT,196 lb,"6' 0""",CODY EAKIN,Cody Eakin,8475236.0,Cody Eakin,Two-Way Forward
+BUF,C,PWF,RIGHT,223 lb,"6' 3""",JOHN HAYDEN,John Hayden,8477401.0,John Hayden,Power Forward
+BUF,RW,PWF,RIGHT,220 lb,"6' 0""",KYLE OKPOSO,Kyle Okposo,8473449.0,Kyle Okposo,Power Forward
+BUF,RD,DFD,RIGHT,196 lb,"6' 1""",MARK PYSYK,Mark Pysyk,8475796.0,Mark Pysyk,Defensive Defenseman
+BUF,LD,DFD,LEFT,204 lb,"6' 2""",ROBERT HAGG,Robert Hagg,8477462.0,Robert Hagg,Defensive Defenseman
+BUF,RW,PWF,RIGHT,219 lb,"6' 6""",TAGE THOMPSON,Tage Thompson,8479420.0,Tage Thompson,Power Forward
+BUF,LD,TWD,LEFT,179 lb,"5' 9""",JACOB BRYSON,Jacob Bryson,8480196.0,Jacob Bryson,Two-Way Defenseman
+BUF,LW,GRN,LEFT,180 lb,"5' 8""",ARTTU RUOTSALAINEN,Arttu Ruotsalainen,8481626.0,Arttu Ruotsalainen,Grinder
+CAR,C,TWF,LEFT,176 lb,"6' 0""",SEBASTIAN AHO,Sebastian Aho,8478427.0,Sebastian Aho,Two-Way Forward
+CAR,C,TWF,LEFT,176 lb,"6' 0""",SEBASTIAN AHO,Sebastian Aho,8480222.0,Sebastian Aho,Two-Way Forward
+CAR,C,TWF,LEFT,176 lb,"6' 0""",SEBASTIAN AHO,Sebastian Aho,8478427.0,Sebastian Aho,Two-Way Forward
+CAR,C,TWF,LEFT,176 lb,"6' 0""",SEBASTIAN AHO,Sebastian Aho,8480222.0,Sebastian Aho,Two-Way Forward
+CAR,RW,SNP,LEFT,195 lb,"6' 2""",ANDREI SVECHNIKOV,Andrei Svechnikov,8480830.0,Andrei Svechnikov,Sniper
+CAR,C,TWF,LEFT,220 lb,"6' 4""",JORDAN STAAL,Jordan Staal,8473533.0,Jordan Staal,Two-Way Forward
+CAR,C,PLY,RIGHT,189 lb,"6' 2""",MARTIN NECAS,Martin Necas,8480039.0,Martin Necas,Playmaker
+CAR,LW,PLY,LEFT,191 lb,"5' 11""",TEUVO TERAVAINEN,Teuvo Teravainen,8476882.0,Teuvo Teravainen,Playmaker
+CAR,C,TWF,RIGHT,183 lb,"5' 10""",VINCENT TROCHECK,Vincent Trocheck,8476389.0,Vincent Trocheck,Two-Way Forward
+CAR,RD,DFD,RIGHT,206 lb,"6' 3""",BRETT PESCE,Brett Pesce,8477488.0,Brett Pesce,Defensive Defenseman
+CAR,LD,TWD,LEFT,207 lb,"6' 3""",JACCOB SLAVIN,Jaccob Slavin,8476958.0,Jaccob Slavin,Two-Way Defenseman
+CAR,C,PLY,LEFT,201 lb,"6' 2""",JESPERI KOTKANIEMI,Jesperi Kotkaniemi,8480829.0,Jesperi Kotkaniemi,Playmaker
+CAR,RW,SNP,LEFT,218 lb,"6' 2""",NINO NIEDERREITER,Nino Niederreiter,8475799.0,Nino Niederreiter,Sniper
+CAR,LD,TWD,LEFT,210 lb,"6' 3""",BRADY SKJEI,Brady Skjei,8476869.0,Brady Skjei,Two-Way Defenseman
+CAR,RD,TWD,RIGHT,197 lb,"5' 11""",ETHAN BEAR,Ethan Bear,8478451.0,Ethan Bear,Two-Way Defenseman
+CAR,RD,OFD,RIGHT,180 lb,"5' 11""",TONY DEANGELO,Tony Deangelo,8477950.0,Tony DeAngelo,Offensive Defenseman
+CAR,C,TWF,RIGHT,196 lb,"6' 0""",DEREK STEPAN,Derek Stepan,8474613.0,Derek Stepan,Two-Way Forward
+CAR,LD,TWD,LEFT,203 lb,"6' 2""",JAKE GARDINER,Jake Gardiner,8474581.0,Jake Gardiner,Two-Way Defenseman
+CAR,RW,SNP,RIGHT,191 lb,"6' 1""",JESPER FAST,Jesper Fast,8475855.0,Jesper Fast,Sniper
+CAR,LW,TWF,LEFT,196 lb,"6' 0""",JORDAN MARTINOOK,Jordan Martinook,8476921.0,Jordan Martinook,Two-Way Forward
+CAR,RW,TWF,RIGHT,192 lb,"6' 2""",JOSH LEIVO,Josh Leivo,8476410.0,Josh Leivo,Two-Way Forward
+CAR,LD,DFD,LEFT,225 lb,"6' 1""",IAN COLE,Ian Cole,8474013.0,Ian Cole,Defensive Defenseman
+CAR,C,TWF,LEFT,206 lb,"6' 4""",STEVEN LORENTZ,Steven Lorentz,8478904.0,Steven Lorentz,Two-Way Forward
+CAR,LD,DFD,LEFT,200 lb,"6' 2""",BRENDAN SMITH,Brendan Smith,8474090.0,Brendan Smith,Defensive Defenseman
+CBJ,RW,PLY,LEFT,214 lb,"6' 2""",JAKUB VORACEK,Jakub Voracek,8474161.0,Jakub Voracek,Playmaker
+CBJ,RW,SNP,RIGHT,205 lb,"6' 5""",PATRIK LAINE,Patrik Laine,8479339.0,Patrik Laine,Sniper
+CBJ,LD,TWD,LEFT,218 lb,"6' 2""",ZACH WERENSKI,Zach Werenski,8478460.0,Zach Werenski,Two-Way Defenseman
+CBJ,RW,SNP,LEFT,179 lb,"5' 11""",GUSTAV NYQUIST,Gustav Nyquist,8474679.0,Gustav Nyquist,Sniper
+CBJ,RW,TWF,RIGHT,187 lb,"6' 1""",JACK ROSLOVIC,Jack Roslovic,8478458.0,Jack Roslovic,Two-Way Forward
+CBJ,C,PLY,LEFT,192 lb,"5' 10""",MAX DOMI,Max Domi,8477503.0,Max Domi,Playmaker
+CBJ,RW,SNP,RIGHT,177 lb,"6' 0""",OLIVER BJORKSTRAND,Oliver Bjorkstrand,8477416.0,Oliver Bjorkstrand,Sniper
+CBJ,RD,OFD,RIGHT,179 lb,"5' 11""",ADAM BOQVIST,Adam Boqvist,8480871.0,Adam Boqvist,Offensive Defenseman
+CBJ,LW,TWF,LEFT,186 lb,"6' 1""",ALEXANDRE TEXIER,Alexandre Texier,8480074.0,Alexandre Texier,Two-Way Forward
+CBJ,C,TWF,LEFT,207 lb,"6' 2""",BOONE JENNER,Boone Jenner,8476432.0,Boone Jenner,Two-Way Forward
+CBJ,LD,OFD,LEFT,187 lb,"6' 1""",JAKE BEAN,Jake Bean,8479402.0,Jake Bean,Offensive Defenseman
+CBJ,RD,DFD,LEFT,186 lb,"6' 2""",DEAN KUKAN,Dean Kukan,8478567.0,Dean Kukan,Defensive Defenseman
+CBJ,LW,TWF,LEFT,196 lb,"6' 2""",ERIC ROBINSON,Eric Robinson,8480762.0,Eric Robinson,Two-Way Forward
+CBJ,RW,TWF,RIGHT,209 lb,"6' 4""",KEVIN STENLUND,Kevin Stenlund,8478831.0,Kevin Stenlund,Two-Way Forward
+CBJ,C,TWF,LEFT,213 lb,"6' 2""",SEAN KURALY,Sean Kuraly,8476374.0,Sean Kuraly,Two-Way Forward
+CBJ,C,SNP,RIGHT,193 lb,"6' 0""",EMIL BEMSTROM,Emil Bemstrom,8480205.0,Emil Bemstrom,Sniper
+CBJ,C,TWF,LEFT,193 lb,"6' 2""",LIAM FOUDY,Liam Foudy,8480853.0,Liam Foudy,Two-Way Forward
+CBJ,LD,DFD,LEFT,205 lb,"6' 3""",VLADISLAV GAVRIKOV,Vladislav Gavrikov,8478882.0,Vladislav Gavrikov,Defensive Defenseman
+CBJ,LD,DFD,LEFT,192 lb,"6' 5""",GABRIEL CARLSSON,Gabriel Carlsson,8478506.0,Gabriel Carlsson,Defensive Defenseman
+CBJ,LD,TWD,LEFT,196 lb,"6' 0""",MIKKO LEHTONEN,Mikko Lehtonen,8482247.0,Mikko Lehtonen,Two-Way Defenseman
+CBJ,LD,DFD,LEFT,206 lb,"6' 2""",SCOTT HARRINGTON,Scott Harrington,8476449.0,Scott Harrington,Defensive Defenseman
+CBJ,LW,GRN,LEFT,192 lb,"5' 10""",ZAC RINALDO,Zac Rinaldo,8474736.0,Zac Rinaldo,Grinder
+CGY,LW,PWF,LEFT,202 lb,"6' 2""",MATTHEW TKACHUK,Matthew Tkachuk,8479314.0,Matthew Tkachuk,Power Forward
+CGY,C,PLY,RIGHT,195 lb,"6' 1""",ELIAS LINDHOLM,Elias Lindholm,8477496.0,Elias Lindholm,Playmaker
+CGY,LW,PLY,LEFT,165 lb,"5' 9""",JOHNNY GAUDREAU,Johnny Gaudreau,8476346.0,Johnny Gaudreau,Playmaker
+CGY,C,TWF,LEFT,200 lb,"6' 2""",SEAN MONAHAN,Sean Monahan,8477497.0,Sean Monahan,Two-Way Forward
+CGY,C,TWF,LEFT,207 lb,"5' 11""",BLAKE COLEMAN,Blake Coleman,8476399.0,Blake Coleman,Two-Way Forward
+CGY,C,TWF,LEFT,200 lb,"6' 0""",MIKAEL BACKLUND,Mikael Backlund,8474150.0,Mikael Backlund,Two-Way Forward
+CGY,LW,TWF,LEFT,184 lb,"5' 10""",ANDREW MANGIAPANE,Andrew Mangiapane,8478233.0,Andrew Mangiapane,Two-Way Forward
+CGY,RD,DFD,RIGHT,197 lb,"6' 2""",CHRISTOPHER TANEV,Christopher Tanev,8475690.0,Christopher Tanev,Defensive Defenseman
+CGY,RW,TWF,LEFT,187 lb,"5' 11""",DILLON DUBE,Dillon Dube,8479346.0,Dillon Dube,Two-Way Forward
+CGY,LD,TWD,LEFT,212 lb,"6' 2""",JUUSO VALIMAKI,Juuso Valimaki,8479976.0,Juuso Valimaki,Two-Way Defenseman
+CGY,LW,PWF,LEFT,231 lb,"6' 3""",MILAN LUCIC,Milan Lucic,8473473.0,Milan Lucic,Power Forward
+CGY,LD,TWD,LEFT,215 lb,"6' 3""",NOAH HANIFIN,Noah Hanifin,8478396.0,Noah Hanifin,Two-Way Defenseman
+CGY,RD,TWD,RIGHT,214 lb,"6' 1""",RASMUS ANDERSSON,Rasmus Andersson,8478397.0,Rasmus Andersson,Two-Way Defenseman
+CGY,C,TWF,LEFT,190 lb,"6' 0""",BRAD RICHARDSON,Brad Richardson,8470755.0,Brad Richardson,Two-Way Forward
+CGY,RW,PWF,RIGHT,220 lb,"6' 4""",BRETT RITCHIE,Brett Ritchie,8476439.0,Brett Ritchie,Power Forward
+CGY,RD,TWD,RIGHT,210 lb,"6' 3""",MICHAEL STONE,Michael Stone,8474628.0,Michael Stone,Two-Way Defenseman
+CGY,LD,OFD,LEFT,183 lb,"6' 0""",OLIVER KYLINGTON,Oliver Kylington,8478430.0,Oliver Kylington,Offensive Defenseman
+CGY,C,TWF,RIGHT,200 lb,"6' 2""",TYLER PITLICK,Tyler Pitlick,8475752.0,Tyler Pitlick,Two-Way Forward
+CGY,C,TWF,RIGHT,192 lb,"6' 1""",GLENN GAWDIN,Glenn Gawdin,8478446.0,Glenn Gawdin,Two-Way Forward
+CGY,LD,DFD,LEFT,235 lb,"6' 6""",NIKITA ZADOROV,Nikita Zadorov,8477507.0,Nikita Zadorov,Defensive Defenseman
+CGY,C,TWF,RIGHT,202 lb,"6' 1""",TREVOR LEWIS,Trevor Lewis,8473453.0,Trevor Lewis,Two-Way Forward
+CGY,C,TWF,RIGHT,203 lb,"6' 1""",BYRON FROESE,Byron Froese,8475278.0,Byron Froese,Two-Way Forward
+CGY,RD,DFD,RIGHT,217 lb,"6' 5""",ERIK GUDBRANSON,Erik Gudbranson,8475790.0,Erik Gudbranson,Defensive Defenseman
+CHI,RW,SNP,LEFT,176 lb,"5' 10""",PATRICK KANE,Patrick Kane,8474141.0,Patrick Kane,Sniper
+CHI,RW,SNP,RIGHT,165 lb,"5' 7""",ALEX DEBRINCAT,Alex Debrincat,8479337.0,Alex DeBrincat,Sniper
+CHI,C,TWF,LEFT,201 lb,"6' 2""",JONATHAN TOEWS,Jonathan Toews,8473604.0,Jonathan Toews,Two-Way Forward
+CHI,LW,TWF,LEFT,179 lb,"6' 2""",DOMINIK KUBALIK,Dominik Kubalik,8477330.0,Dominik Kubalik,Two-Way Forward
+CHI,RD,TWD,RIGHT,213 lb,"6' 4""",SETH JONES,Seth Jones,8477495.0,Seth Jones,Two-Way Defenseman
+CHI,C,PLY,LEFT,200 lb,"6' 3""",DYLAN STROME,Dylan Strome,8478440.0,Dylan Strome,Playmaker
+CHI,C,PLY,RIGHT,197 lb,"6' 4""",KIRBY DACH,Kirby Dach,8481523.0,Kirby Dach,Playmaker
+CHI,RW,TWF,RIGHT,198 lb,"6' 3""",BRETT CONNOLLY,Brett Connolly,8475792.0,Brett Connolly,Two-Way Forward
+CHI,C,TWF,RIGHT,185 lb,"5' 8""",TYLER JOHNSON,Tyler Johnson,8474870.0,Tyler Johnson,Two-Way Forward
+CHI,LD,OFD,LEFT,176 lb,"6' 0""",ERIK GUSTAFSSON,Erik Gustafsson,8476979.0,Erik Gustafsson,Offensive Defenseman
+CHI,C,TWF,RIGHT,170 lb,"6' 1""",ADAM GAUDETTE,Adam Gaudette,8478874.0,Adam Gaudette,Two-Way Forward
+CHI,LD,TWD,LEFT,194 lb,"6' 1""",CALEB JONES,Caleb Jones,8478452.0,Caleb Jones,Two-Way Defenseman
+CHI,LD,DFD,LEFT,195 lb,"6' 1""",CALVIN DE HAAN,Calvin De Haan,8475177.0,Calvin de Haan,Defensive Defenseman
+CHI,RD,DFD,RIGHT,212 lb,"6' 4""",CONNOR MURPHY,Connor Murphy,8476473.0,Connor Murphy,Defensive Defenseman
+CHI,LD,TWD,LEFT,204 lb,"6' 1""",JAKE MCCABE,Jake Mccabe,8476931.0,Jake McCabe,Two-Way Defenseman
+CHI,C,GRN,LEFT,212 lb,"6' 4""",JUJHAR KHAIRA,Jujhar Khaira,8476915.0,Jujhar Khaira,Grinder
+CHI,RW,PLY,RIGHT,192 lb,"6' 1""",ALEXANDER NYLANDER,Alexander Nylander,8479423.0,Alex Nylander,Playmaker
+CHI,C,TWF,LEFT,198 lb,"6' 3""",HENRIK BORGSTROM,Henrik Borgstrom,8479404.0,Henrik Borgstrom,Two-Way Forward
+CHI,RD,TWD,RIGHT,173 lb,"5' 11""",IAN MITCHELL,Ian Mitchell,8480070.0,Ian Mitchell,Two-Way Defenseman
+CHI,C,PLY,LEFT,190 lb,"6' 0""",PHILIPP KURASHEV,Philipp Kurashev,8480798.0,Philipp Kurashev,Playmaker
+CHI,C,TWF,RIGHT,200 lb,"6' 0""",RYAN CARPENTER,Ryan Carpenter,8477846.0,Ryan Carpenter,Two-Way Forward
+CHI,LD,TWD,LEFT,181 lb,"6' 1""",WYATT KALYNUK,Wyatt Kalynuk,8480293.0,Wyatt Kalynuk,Two-Way Defenseman
+CHI,LW,PLY,LEFT,174 lb,"5' 11""",BRANDON HAGEL,Brandon Hagel,8479542.0,Brandon Hagel,Playmaker
+CHI,RW,GRN,RIGHT,192 lb,"6' 1""",REESE JOHNSON,Reese Johnson,8481147.0,Reese Johnson,Grinder
+CHI,LD,DFD,LEFT,196 lb,"6' 1""",RILEY STILLMAN,Riley Stillman,8479388.0,Riley Stillman,Defensive Defenseman
+CHI,RW,GRN,RIGHT,182 lb,"5' 11""",ANDREW SHAW,Andrew Shaw,8476381.0,Andrew Shaw,Grinder
+COL,C,PLY,RIGHT,200 lb,"6' 0""",NATHAN MACKINNON,Nathan Mackinnon,8477492.0,Nathan MacKinnon,Playmaker
+COL,RW,SNP,LEFT,215 lb,"6' 4""",MIKKO RANTANEN,Mikko Rantanen,8478420.0,Mikko Rantanen,Sniper
+COL,RD,OFD,RIGHT,187 lb,"5' 11""",CALE MAKAR,Cale Makar,8480069.0,Cale Makar,Offensive Defenseman
+COL,LW,PWF,LEFT,215 lb,"6' 1""",GABRIEL LANDESKOG,Gabriel Landeskog,8476455.0,Gabriel Landeskog,Power Forward
+COL,C,TWF,LEFT,192 lb,"6' 0""",NAZEM KADRI,Nazem Kadri,8475172.0,Nazem Kadri,Two-Way Forward
+COL,LD,OFD,LEFT,170 lb,"5' 10""",SAMUEL GIRARD,Samuel Girard,8479398.0,Samuel Girard,Offensive Defenseman
+COL,LW,SNP,LEFT,201 lb,"6' 3""",ANDRE BURAKOVSKY,Andre Burakovsky,8477444.0,Andre Burakovsky,Sniper
+COL,LD,TWD,LEFT,191 lb,"6' 1""",DEVON TOEWS,Devon Toews,8478038.0,Devon Toews,Two-Way Defenseman
+COL,RD,TWD,RIGHT,225 lb,"6' 4""",ERIK JOHNSON,Erik Johnson,8473446.0,Erik Johnson,Two-Way Defenseman
+COL,RW,TWF,RIGHT,190 lb,"6' 0""",J.T. COMPHER,J.T. Compher,8477456.0,J.T. Compher,Two-Way Forward
+COL,LD,TWD,LEFT,205 lb,"6' 1""",RYAN MURRAY,Ryan Murray,8476850.0,Ryan Murray,Two-Way Defenseman
+COL,RW,TWF,LEFT,205 lb,"6' 4""",VALERI NICHUSHKIN,Valeri Nichushkin,8477501.0,Valeri Nichushkin,Two-Way Forward
+COL,LD,TWD,LEFT,190 lb,"6' 1""",BOWEN BYRAM,Bowen Byram,8481524.0,Bowen Byram,Two-Way Defenseman
+COL,LW,PWF,LEFT,220 lb,"6' 3""",MIKHAIL MALTSEV,Mikhail Maltsev,8479573.0,Mikhail Maltsev,Power Forward
+COL,C,TWF,LEFT,187 lb,"5' 11""",TYSON JOST,Tyson Jost,8479370.0,Tyson Jost,Two-Way Forward
+COL,LW,TWF,LEFT,192 lb,"6' 0""",DARREN HELM,Darren Helm,8471794.0,Darren Helm,Two-Way Forward
+COL,LD,TWD,LEFT,205 lb,"6' 0""",JACOB MACDONALD,Jacob Macdonald,8479439.0,Jacob MacDonald,Two-Way Defenseman
+COL,RD,DFD,LEFT,233 lb,"6' 5""",KURTIS MACDERMID,Kurtis Macdermid,8477073.0,Kurtis MacDermid,Defensive Defenseman
+COL,RW,TWF,RIGHT,174 lb,"6' 0""",LOGAN O'CONNOR,Logan O'Connor,8481186.0,Logan O'Connor,Two-Way Forward
+COL,LW,GRN,LEFT,220 lb,"6' 2""",STEFAN MATTEAU,Stefan Matteau,8476870.0,Stefan Matteau,Grinder
+COL,LD,DFD,LEFT,227 lb,"6' 1""",JACK JOHNSON,Jack Johnson,8471677.0,Jack Johnson,Defensive Defenseman
+COL,RW,TWF,RIGHT,194 lb,"6' 1""",JAYSON MEGNA,Jayson Megna,8477126.0,Jayson Megna,Two-Way Forward
+DAL,C,PLY,RIGHT,200 lb,"6' 1""",TYLER SEGUIN,Tyler Seguin,8475794.0,Tyler Seguin,Playmaker
+DAL,RW,PLY,LEFT,205 lb,"6' 1""",ALEXANDER RADULOV,Alexander Radulov,8471228.0,Alexander Radulov,Playmaker
+DAL,LW,PWF,LEFT,210 lb,"6' 2""",JAMIE BENN,Jamie Benn,8473994.0,Jamie Benn,Power Forward
+DAL,LW,SNP,LEFT,201 lb,"6' 2""",JASON ROBERTSON,Jason Robertson,8480027.0,Jason Robertson,Sniper
+DAL,RD,OFD,RIGHT,190 lb,"6' 3""",JOHN KLINGBERG,John Klingberg,8475906.0,John Klingberg,Offensive Defenseman
+DAL,C,TWF,LEFT,220 lb,"6' 3""",ROOPE HINTZ,Roope Hintz,8478449.0,Roope Hintz,Two-Way Forward
+DAL,LW,SNP,LEFT,200 lb,"6' 3""",DENIS GURIANOV,Denis Gurianov,8478495.0,Denis Gurianov,Sniper
+DAL,RW,TWF,RIGHT,195 lb,"5' 11""",JOE PAVELSKI,Joe Pavelski,8470794.0,Joe Pavelski,Two-Way Forward
+DAL,LD,TWD,LEFT,190 lb,"6' 1""",MIRO HEISKANEN,Miro Heiskanen,8480036.0,Miro Heiskanen,Two-Way Defenseman
+DAL,LD,TWD,LEFT,215 lb,"6' 3""",ESA LINDELL,Esa Lindell,8476902.0,Esa Lindell,Two-Way Defenseman
+DAL,C,TWF,LEFT,220 lb,"6' 3""",RADEK FAKSA,Radek Faksa,8476889.0,Radek Faksa,Two-Way Forward
+DAL,LD,TWD,LEFT,205 lb,"6' 2""",RYAN SUTER,Ryan Suter,8470600.0,Ryan Suter,Two-Way Defenseman
+DAL,LW,TWF,RIGHT,200 lb,"6' 1""",BLAKE COMEAU,Blake Comeau,8471260.0,Blake Comeau,Two-Way Forward
+DAL,C,TWF,RIGHT,191 lb,"5' 11""",LUKE GLENDENING,Luke Glendening,8476822.0,Luke Glendening,Two-Way Forward
+DAL,LW,TWF,LEFT,200 lb,"6' 0""",MICHAEL RAFFL,Michael Raffl,8477290.0,Michael Raffl,Two-Way Forward
+DAL,LD,TWD,LEFT,195 lb,"6' 0""",ANDREJ SEKERA,Andrej Sekera,8471284.0,Andrej Sekera,Two-Way Defenseman
+DAL,RD,DFD,RIGHT,218 lb,"6' 5""",JANI HAKANPAA,Jani Hakanpaa,8475825.0,Jani Hakanpaa,Defensive Defenseman
+DAL,LW,SNP,LEFT,181 lb,"5' 11""",JOEL KIVIRANTA,Joel Kiviranta,8481641.0,Joel Kiviranta,Sniper
+DAL,C,TWF,RIGHT,216 lb,"6' 3""",JOEL L'ESPERANCE,Joel L'Esperance,8480769.0,Joel L'Esperance,Two-Way Forward
+DAL,LW,GRN,LEFT,200 lb,"6' 3""",NICHOLAS CAAMANO,Nicholas Caamano,8479381.0,Nick Caamano,Grinder
+DAL,C,TWF,RIGHT,190 lb,"6' 1""",TY DELLANDREA,Ty Dellandrea,8480848.0,Ty Dellandrea,Two-Way Forward
+DAL,LD,TWD,LEFT,190 lb,"5' 11""",JOEL HANLEY,Joel Hanley,8477810.0,Joel Hanley,Two-Way Defenseman
+DAL,C,SNP,LEFT,185 lb,"6' 0""",TANNER KERO,Tanner Kero,8478528.0,Tanner Kero,Sniper
+DET,C,PLY,LEFT,198 lb,"6' 1""",DYLAN LARKIN,Dylan Larkin,8477946.0,Dylan Larkin,Playmaker
+DET,LW,SNP,LEFT,197 lb,"6' 0""",JAKUB VRANA,Jakub Vrana,8477944.0,Jakub Vrana,Sniper
+DET,LW,TWF,LEFT,199 lb,"6' 1""",TYLER BERTUZZI,Tyler Bertuzzi,8477479.0,Tyler Bertuzzi,Two-Way Forward
+DET,LW,SNP,LEFT,189 lb,"6' 0""",FILIP ZADINA,Filip Zadina,8480821.0,Filip Zadina,Sniper
+DET,LD,TWD,LEFT,204 lb,"6' 0""",NICK LEDDY,Nick Leddy,8475181.0,Nick Leddy,Two-Way Defenseman
+DET,LW,PWF,LEFT,212 lb,"6' 1""",ADAM ERNE,Adam Erne,8477454.0,Adam Erne,Power Forward
+DET,RD,TWD,RIGHT,183 lb,"6' 0""",FILIP HRONEK,Filip Hronek,8479425.0,Filip Hronek,Two-Way Defenseman
+DET,C,SNP,LEFT,176 lb,"6' 0""",PIUS SUTER,Pius Suter,8480459.0,Pius Suter,Sniper
+DET,LW,SNP,LEFT,190 lb,"5' 10""",ROBBY FABBRI,Robby Fabbri,8477952.0,Robby Fabbri,Sniper
+DET,LW,SNP,LEFT,229 lb,"6' 6""",MICHAEL RASMUSSEN,Michael Rasmussen,8479992.0,Michael Rasmussen,Sniper
+DET,C,TWF,RIGHT,200 lb,"5' 11""",SAM GAGNER,Sam Gagner,8474040.0,Sam Gagner,Two-Way Forward
+DET,RD,TWD,RIGHT,186 lb,"5' 10""",TROY STECHER,Troy Stecher,8479442.0,Troy Stecher,Two-Way Defenseman
+DET,LW,PLY,LEFT,183 lb,"6' 0""",VLADISLAV NAMESTNIKOV,Vladislav Namestnikov,8476480.0,Vladislav Namestnikov,Playmaker
+DET,C,TWF,LEFT,198 lb,"6' 1""",JOE VELENO,Joe Veleno,8480813.0,Joe Veleno,Two-Way Forward
+DET,LD,DFD,LEFT,182 lb,"6' 0""",JORDAN OESTERLE,Jordan Oesterle,8477851.0,Jordan Oesterle,Defensive Defenseman
+DET,LD,DFD,LEFT,190 lb,"6' 3""",DANNY DEKEYSER,Danny Dekeyser,8477215.0,Danny DeKeyser,Defensive Defenseman
+DET,C,TWF,RIGHT,196 lb,"6' 0""",MITCHELL STEPHENS,Mitchell Stephens,8478477.0,Mitchell Stephens,Two-Way Forward
+DET,LD,DFD,LEFT,209 lb,"6' 4""",MARC STAAL,Marc Staal,8471686.0,Marc Staal,Defensive Defenseman
+EDM,C,PLY,LEFT,193 lb,"6' 1""",CONNOR MCDAVID,Connor Mcdavid,8478402.0,Connor McDavid,Playmaker
+EDM,C,SNP,LEFT,208 lb,"6' 2""",LEON DRAISAITL,Leon Draisaitl,8477934.0,Leon Draisaitl,Sniper
+EDM,LD,TWD,LEFT,221 lb,"6' 4""",DARNELL NURSE,Darnell Nurse,8477498.0,Darnell Nurse,Two-Way Defenseman
+EDM,C,TWF,LEFT,184 lb,"6' 0""",RYAN NUGENT-HOPKINS,Ryan Nugent-Hopkins,8476454.0,Ryan Nugent-Hopkins,Two-Way Forward
+EDM,RD,OFD,RIGHT,197 lb,"5' 11""",TYSON BARRIE,Tyson Barrie,8475197.0,Tyson Barrie,Offensive Defenseman
+EDM,LW,TWF,RIGHT,211 lb,"6' 1""",ZACH HYMAN,Zach Hyman,8475786.0,Zach Hyman,Two-Way Forward
+EDM,LD,TWD,LEFT,192 lb,"6' 1""",DUNCAN KEITH,Duncan Keith,8470281.0,Duncan Keith,Two-Way Defenseman
+EDM,RW,SNP,RIGHT,201 lb,"6' 4""",JESSE PULJUJARVI,Jesse Puljujarvi,8479344.0,Jesse Puljujarvi,Sniper
+EDM,RW,PLY,RIGHT,158 lb,"5' 8""",KAILER YAMAMOTO,Kailer Yamamoto,8479977.0,Kailer Yamamoto,Playmaker
+EDM,LD,TWD,LEFT,216 lb,"6' 4""",OSCAR KLEFBOM,Oscar Klefbom,8476472.0,Oscar Klefbom,Two-Way Defenseman
+EDM,LW,PWF,LEFT,198 lb,"6' 2""",WARREN FOEGELE,Warren Foegele,8477998.0,Warren Foegele,Power Forward
+EDM,RW,PWF,RIGHT,211 lb,"6' 3""",ZACK KASSIAN,Zack Kassian,8475178.0,Zack Kassian,Power Forward
+EDM,LW,SNP,LEFT,211 lb,"6' 3""",BRENDAN PERLINI,Brendan Perlini,8477943.0,Brendan Perlini,Sniper
+EDM,RD,TWD,RIGHT,210 lb,"6' 2""",CODY CECI,Cody Ceci,8476879.0,Cody Ceci,Two-Way Defenseman
+EDM,C,TWF,RIGHT,190 lb,"6' 1""",KYLE TURRIS,Kyle Turris,8474068.0,Kyle Turris,Two-Way Forward
+EDM,C,TWF,RIGHT,185 lb,"5' 10""",DEREK RYAN,Derek Ryan,8478585.0,Derek Ryan,Two-Way Forward
+EDM,C,TWF,LEFT,206 lb,"6' 1""",DEVIN SHORE,Devin Shore,8476913.0,Devin Shore,Two-Way Forward
+EDM,RW,TWF,RIGHT,176 lb,"5' 10""",JOSH ARCHIBALD,Josh Archibald,8476326.0,Josh Archibald,Two-Way Forward
+EDM,LD,DFD,LEFT,173 lb,"5' 10""",KRIS RUSSELL,Kris Russell,8471729.0,Kris Russell,Defensive Defenseman
+EDM,C,TWF,LEFT,201 lb,"6' 3""",RYAN MCLEOD,Ryan Mcleod,8480802.0,Ryan McLeod,Two-Way Forward
+EDM,LW,SNP,RIGHT,170 lb,"6' 1""",DYLAN GUENTHER,Dylan Guenther,8482699.0,Dylan Guenther,Sniper
+FLA,C,TWF,LEFT,215 lb,"6' 3""",ALEKSANDER BARKOV,Aleksander Barkov,8477493.0,Aleksander Barkov,Two-Way Forward
+FLA,LW,PLY,LEFT,202 lb,"6' 1""",JONATHAN HUBERDEAU,Jonathan Huberdeau,8476456.0,Jonathan Huberdeau,Playmaker
+FLA,RD,TWD,RIGHT,215 lb,"6' 4""",AARON EKBLAD,Aaron Ekblad,8477932.0,Aaron Ekblad,Two-Way Defenseman
+FLA,RW,PWF,RIGHT,189 lb,"5' 11""",PATRIC HORNQVIST,Patric Hornqvist,8471887.0,Patric Hornqvist,Power Forward
+FLA,LD,TWD,RIGHT,200 lb,"6' 0""",MACKENZIE WEEGAR,Mackenzie Weegar,8477346.0,MacKenzie Weegar,Two-Way Defenseman
+FLA,C,PLY,RIGHT,192 lb,"6' 1""",SAM REINHART,Sam Reinhart,8477933.0,Sam Reinhart,Playmaker
+FLA,LW,SNP,LEFT,197 lb,"5' 11""",ANTHONY DUCLAIR,Anthony Duclair,8477407.0,Anthony Duclair,Sniper
+FLA,RD,TWD,RIGHT,194 lb,"6' 0""",BRANDON MONTOUR,Brandon Montour,8477986.0,Brandon Montour,Two-Way Defenseman
+FLA,C,TWF,LEFT,180 lb,"6' 2""",CARTER VERHAEGHE,Carter Verhaeghe,8477409.0,Carter Verhaeghe,Two-Way Forward
+FLA,RW,TWF,LEFT,197 lb,"5' 11""",FRANK VATRANO,Frank Vatrano,8478366.0,Frank Vatrano,Two-Way Forward
+FLA,LD,OFD,LEFT,186 lb,"6' 0""",GUSTAV FORSLING,Gustav Forsling,8478055.0,Gustav Forsling,Offensive Defenseman
+FLA,C,PLY,LEFT,220 lb,"6' 4""",JOE THORNTON,Joe Thornton,8466138.0,Joe Thornton,Playmaker
+FLA,C,TWF,LEFT,195 lb,"6' 1""",SAM BENNETT,Sam Bennett,8477935.0,Sam Bennett,Two-Way Forward
+FLA,RW,TWF,RIGHT,209 lb,"5' 10""",NOEL ACCIARI,Noel Acciari,8478569.0,Noel Acciari,Two-Way Forward
+FLA,RD,DFD,LEFT,187 lb,"6' 1""",MARKUS NUTIVAARA,Markus Nutivaara,8478906.0,Markus Nutivaara,Defensive Defenseman
+FLA,LW,GRN,LEFT,200 lb,"6' 4""",MASON MARCHMENT,Mason Marchment,8478975.0,Mason Marchment,Grinder
+FLA,RW,SNP,RIGHT,207 lb,"6' 1""",OWEN TIPPETT,Owen Tippett,8480015.0,Owen Tippett,Sniper
+FLA,C,TWF,LEFT,190 lb,"6' 3""",EETU LUOSTARINEN,Eetu Luostarinen,8480185.0,Eetu Luostarinen,Two-Way Forward
+FLA,C,TWF,LEFT,207 lb,"6' 2""",JUHO LAMMIKKO,Juho Lammikko,8477996.0,Juho Lammikko,Two-Way Forward
+FLA,LD,TWD,LEFT,205 lb,"6' 2""",KEVIN CONNAUTON,Kevin Connauton,8475246.0,Kevin Connauton,Two-Way Defenseman
+FLA,LW,TWF,LEFT,192 lb,"6' 2""",MAXIM MAMIN,Maxim Mamin,8479553.0,Maxim Mamin,Two-Way Forward
+FLA,RD,DFD,RIGHT,208 lb,"6' 0""",RADKO GUDAS,Radko Gudas,8475462.0,Radko Gudas,Defensive Defenseman
+LAK,C,TWF,LEFT,225 lb,"6' 3""",ANZE KOPITAR,Anze Kopitar,8471685.0,Anze Kopitar,Two-Way Forward
+LAK,RD,TWD,RIGHT,202 lb,"6' 1""",DREW DOUGHTY,Drew Doughty,8474563.0,Drew Doughty,Two-Way Defenseman
+LAK,C,TWF,LEFT,200 lb,"6' 1""",PHILLIP DANAULT,Phillip Danault,8476479.0,Phillip Danault,Two-Way Forward
+LAK,C,TWF,LEFT,201 lb,"6' 2""",ADRIAN KEMPE,Adrian Kempe,8477960.0,Adrian Kempe,Two-Way Forward
+LAK,LW,TWF,LEFT,188 lb,"6' 0""",ALEX IAFALLO,Alex Iafallo,8480113.0,Alex Iafallo,Two-Way Forward
+LAK,C,TWF,RIGHT,201 lb,"6' 3""",GABE VILARDI,Gabe Vilardi,8480014.0,Gabriel Vilardi,Two-Way Forward
+LAK,RW,SNP,RIGHT,180 lb,"5' 9""",VIKTOR ARVIDSSON,Viktor Arvidsson,8478042.0,Viktor Arvidsson,Sniper
+LAK,LW,SNP,LEFT,188 lb,"6' 2""",ANDREAS ATHANASIOU,Andreas Athanasiou,8476960.0,Andreas Athanasiou,Sniper
+LAK,RW,PWF,RIGHT,210 lb,"6' 0""",DUSTIN BROWN,Dustin Brown,8470606.0,Dustin Brown,Power Forward
+LAK,RD,TWD,RIGHT,196 lb,"5' 11""",SEAN WALKER,Sean Walker,8480336.0,Sean Walker,Two-Way Defenseman
+LAK,LD,DFD,LEFT,212 lb,"6' 3""",ALEXANDER EDLER,Alexander Edler,8471303.0,Alexander Edler,Defensive Defenseman
+LAK,LW,GRN,LEFT,213 lb,"6' 1""",BRENDAN LEMIEUX,Brendan Lemieux,8477962.0,Brendan Lemieux,Grinder
+LAK,LW,TWF,LEFT,201 lb,"6' 0""",CARL GRUNDSTRÖM,Carl Grundström,8479336.0,Carl Grundstrom,Two-Way Forward
+LAK,C,TWF,LEFT,194 lb,"5' 10""",JARET ANDERSON-DOLAN,Jaret Anderson-Dolan,8479994.0,Jaret Anderson-Dolan,Two-Way Forward
+LAK,LD,TWD,LEFT,197 lb,"6' 0""",MIKEY ANDERSON,Mikey Anderson,8479998.0,Mikey Anderson,Two-Way Defenseman
+LAK,LD,DFD,LEFT,206 lb,"6' 2""",OLLI MAATTA,Olli Maatta,8476874.0,Olli Maatta,Defensive Defenseman
+LAK,C,PWF,LEFT,220 lb,"6' 4""",QUINTON BYFIELD,Quinton Byfield,8482124.0,Quinton Byfield,Power Forward
+LAK,LW,TWF,LEFT,181 lb,"6' 2""",AUSTIN WAGNER,Austin Wagner,8478455.0,Austin Wagner,Two-Way Forward
+LAK,C,PLY,LEFT,172 lb,"5' 7""",BLAKE LIZOTTE,Blake Lizotte,8481481.0,Blake Lizotte,Playmaker
+LAK,LD,TWD,LEFT,187 lb,"6' 2""",CHRISTIAN WOLANIN,Christian Wolanin,8478846.0,Christian Wolanin,Two-Way Defenseman
+LAK,C,TWF,LEFT,190 lb,"6' 1""",LIAS ANDERSSON,Lias Andersson,8480072.0,Lias Andersson,Two-Way Forward
+LAK,RD,TWD,RIGHT,200 lb,"6' 1""",MATT ROY,Matt Roy,8478911.0,Matt Roy,Two-Way Defenseman
+LAK,LD,TWD,LEFT,202 lb,"6' 0""",TOBIAS BJÖRNFOT,Tobias Björnfot,8481600.0,Tobias Bjornfot,Two-Way Defenseman
+LAK,RW,PLY,LEFT,185 lb,"5' 10""",TREVOR MOORE,Trevor Moore,8479675.0,Trevor Moore,Playmaker
+MIN,LW,SNP,LEFT,201 lb,"5' 10""",KIRILL KAPRIZOV,Kirill Kaprizov,8478864.0,Kirill Kaprizov,Sniper
+MIN,RD,TWD,RIGHT,167 lb,"5' 9""",JARED SPURGEON,Jared Spurgeon,8474716.0,Jared Spurgeon,Two-Way Defenseman
+MIN,C,TWF,LEFT,208 lb,"6' 3""",JOEL ERIKSSON EK,Joel Eriksson Ek,8478493.0,Joel Eriksson Ek,Two-Way Forward
+MIN,LW,SNP,LEFT,198 lb,"5' 10""",KEVIN FIALA,Kevin Fiala,8477942.0,Kevin Fiala,Sniper
+MIN,RD,TWD,RIGHT,185 lb,"6' 0""",MATT DUMBA,Matt Dumba,8476856.0,Matt Dumba,Two-Way Defenseman
+MIN,LW,PWF,LEFT,241 lb,"6' 6""",JORDAN GREENWAY,Jordan Greenway,8478413.0,Jordan Greenway,Power Forward
+MIN,LW,GRN,LEFT,223 lb,"6' 3""",MARCUS FOLIGNO,Marcus Foligno,8475220.0,Marcus Foligno,Grinder
+MIN,LW,PLY,LEFT,175 lb,"5' 8""",MATS ZUCCARELLO,Mats Zuccarello,8475692.0,Mats Zuccarello,Playmaker
+MIN,LD,TWD,LEFT,194 lb,"6' 1""",JONAS BRODIN,Jonas Brodin,8476463.0,Jonas Brodin,Two-Way Defenseman
+MIN,C,PWF,RIGHT,208 lb,"6' 6""",NICK BJUGSTAD,Nick Bjugstad,8475760.0,Nick Bjugstad,Power Forward
+MIN,RW,TWF,RIGHT,192 lb,"6' 0""",RYAN HARTMAN,Ryan Hartman,8477451.0,Ryan Hartman,Two-Way Forward
+MIN,LD,TWD,LEFT,185 lb,"5' 11""",ALEX GOLIGOSKI,Alex Goligoski,8471274.0,Alex Goligoski,Two-Way Defenseman
+MIN,C,TWF,LEFT,195 lb,"6' 2""",VICTOR RASK,Victor Rask,8476437.0,Victor Rask,Two-Way Forward
+MIN,LD,TWD,LEFT,204 lb,"6' 1""",DMITRY KULIKOV,Dmitry Kulikov,8475179.0,Dmitry Kulikov,Two-Way Defenseman
+MIN,LD,DFD,LEFT,195 lb,"6' 3""",JON MERRILL,Jon Merrill,8475750.0,Jon Merrill,Defensive Defenseman
+MIN,LD,DFD,LEFT,199 lb,"6' 2""",JORDIE BENN,Jordie Benn,8474818.0,Jordie Benn,Defensive Defenseman
+MIN,C,TWF,LEFT,207 lb,"6' 3""",NICO STURM,Nico Sturm,8481477.0,Nico Sturm,Two-Way Forward
+MIN,RD,DFD,LEFT,196 lb,"6' 0""",DAKOTA MERMIS,Dakota Mermis,8477541.0,Dakota Mermis,Defensive Defenseman
+MIN,C,TWF,RIGHT,178 lb,"5' 11""",FREDERICK GAUDREAU,Frederick Gaudreau,8477919.0,Frederick Gaudreau,Two-Way Forward
+MTL,RD,TWD,RIGHT,208 lb,"6' 3""",JEFF PETRY,Jeff Petry,8473507.0,Jeff Petry,Two-Way Defenseman
+MTL,RW,SNP,RIGHT,197 lb,"6' 0""",TYLER TOFFOLI,Tyler Toffoli,8475726.0,Tyler Toffoli,Sniper
+MTL,RW,TWF,RIGHT,183 lb,"5' 9""",BRENDAN GALLAGHER,Brendan Gallagher,8475848.0,Brendan Gallagher,Two-Way Forward
+MTL,LW,PLY,LEFT,201 lb,"6' 0""",JONATHAN DROUIN,Jonathan Drouin,8477494.0,Jonathan Drouin,Playmaker
+MTL,RW,PWF,RIGHT,226 lb,"6' 3""",JOSH ANDERSON,Josh Anderson,8476981.0,Josh Anderson,Power Forward
+MTL,LW,SNP,LEFT,180 lb,"6' 0""",MIKE HOFFMAN,Mike Hoffman,8474884.0,Mike Hoffman,Sniper
+MTL,C,PLY,RIGHT,208 lb,"5' 11""",NICK SUZUKI,Nick Suzuki,8480018.0,Nick Suzuki,Playmaker
+MTL,RD,TWD,RIGHT,229 lb,"6' 4""",SHEA WEBER,Shea Weber,8470642.0,Shea Weber,Two-Way Defenseman
+MTL,C,TWF,LEFT,195 lb,"6' 0""",CHRISTIAN DVORAK,Christian Dvorak,8477989.0,Christian Dvorak,Two-Way Forward
+MTL,RW,SNP,RIGHT,165 lb,"5' 7""",COLE CAUFIELD,Cole Caufield,8481540.0,Cole Caufield,Sniper
+MTL,RW,TWF,RIGHT,212 lb,"6' 3""",JOEL ARMIA,Joel Armia,8476469.0,Joel Armia,Two-Way Forward
+MTL,LD,TWD,LEFT,208 lb,"6' 0""",ALEXANDER ROMANOV,Alexander Romanov,8481014.0,Alexander Romanov,Two-Way Defenseman
+MTL,LW,TWF,LEFT,178 lb,"5' 11""",ARTTURI LEHKONEN,Artturi Lehkonen,8477476.0,Artturi Lehkonen,Two-Way Forward
+MTL,C,GRN,LEFT,204 lb,"6' 2""",CEDRIC PAQUETTE,Cedric Paquette,8476975.0,Cedric Paquette,Grinder
+MTL,RD,DFD,RIGHT,233 lb,"6' 2""",DAVID SAVARD,David Savard,8475233.0,David Savard,Defensive Defenseman
+MTL,LD,DFD,LEFT,227 lb,"6' 4""",JOEL EDMUNDSON,Joel Edmundson,8476441.0,Joel Edmundson,Defensive Defenseman
+MTL,LW,TWF,LEFT,188 lb,"5' 10""",MATHIEU PERREAULT,Mathieu Perreault,8473618.0,Mathieu Perreault,Two-Way Forward
+MTL,LD,DFD,LEFT,234 lb,"6' 3""",BEN CHIAROT,Ben Chiarot,8475279.0,Ben Chiarot,Defensive Defenseman
+MTL,LD,TWD,LEFT,192 lb,"6' 2""",BRETT KULAK,Brett Kulak,8476967.0,Brett Kulak,Two-Way Defenseman
+MTL,RD,OFD,RIGHT,180 lb,"5' 10""",CHRIS WIDEMAN,Chris Wideman,8475227.0,Chris Wideman,Offensive Defenseman
+MTL,C,TWF,RIGHT,183 lb,"6' 1""",JAKE EVANS,Jake Evans,8478133.0,Jake Evans,Two-Way Forward
+MTL,LW,TWF,LEFT,165 lb,"5' 9""",PAUL BYRON,Paul Byron,8474038.0,Paul Byron,Two-Way Forward
+NJD,RD,TWD,RIGHT,229 lb,"6' 6""",DOUGIE HAMILTON,Dougie Hamilton,8476462.0,Dougie Hamilton,Two-Way Defenseman
+NJD,C,TWF,LEFT,174 lb,"6' 2""",NICO HISCHIER,Nico Hischier,8480002.0,Nico Hischier,Two-Way Forward
+NJD,C,PWF,LEFT,210 lb,"6' 3""",PAVEL ZACHA,Pavel Zacha,8478401.0,Pavel Zacha,Power Forward
+NJD,RD,TWD,RIGHT,205 lb,"6' 2""",DAMON SEVERSON,Damon Severson,8476923.0,Damon Severson,Two-Way Defenseman
+NJD,C,PLY,LEFT,176 lb,"5' 11""",JACK HUGHES,Jack Hughes,8481559.0,Jack Hughes,Playmaker
+NJD,LW,TWF,LEFT,195 lb,"6' 2""",MILES WOOD,Miles Wood,8477425.0,Miles Wood,Two-Way Forward
+NJD,RD,TWD,RIGHT,210 lb,"6' 0""",P.K. SUBBAN,P.K. Subban,8474056.0,P.K. Subban,Two-Way Defenseman
+NJD,LW,SNP,LEFT,185 lb,"5' 10""",TOMAS TATAR,Tomas Tatar,8475193.0,Tomas Tatar,Sniper
+NJD,LD,TWD,LEFT,175 lb,"5' 11""",TY SMITH,Ty Smith,8480883.0,Ty Smith,Two-Way Defenseman
+NJD,C,TWF,LEFT,196 lb,"6' 2""",YEGOR SHARANGOVICH,Yegor Sharangovich,8481068.0,Yegor Sharangovich,Two-Way Forward
+NJD,LW,TWF,LEFT,194 lb,"5' 10""",ANDREAS JOHNSSON,Andreas Johnsson,8477341.0,Andreas Johnsson,Two-Way Forward
+NJD,C,TWF,LEFT,193 lb,"6' 1""",JANNE KUOKKANEN,Janne Kuokkanen,8479511.0,Janne Kuokkanen,Two-Way Forward
+NJD,LW,PLY,LEFT,175 lb,"5' 10""",JESPER BRATT,Jesper Bratt,8479407.0,Jesper Bratt,Playmaker
+NJD,LD,DFD,LEFT,220 lb,"6' 5""",RYAN GRAVES,Ryan Graves,8477435.0,Ryan Graves,Defensive Defenseman
+NJD,C,TWF,LEFT,181 lb,"6' 0""",JESPER BOQVIST,Jesper Boqvist,8480003.0,Jesper Boqvist,Two-Way Forward
+NJD,C,TWF,RIGHT,188 lb,"6' 2""",MICHAEL MCLEOD,Michael Mcleod,8479415.0,Michael McLeod,Two-Way Forward
+NJD,LD,DFD,LEFT,211 lb,"6' 3""",JONAS SIEGENTHALER,Jonas Siegenthaler,8478399.0,Jonas Siegenthaler,Defensive Defenseman
+NJD,RW,TWF,LEFT,181 lb,"6' 1""",MARIAN STUDENIC,Marian Studenic,8480226.0,Marian Studenic,Two-Way Forward
+NJD,LW,PWF,LEFT,201 lb,"6' 4""",NOLAN FOOTE,Nolan Foote,8481518.0,Nolan Foote,Power Forward
+NSH,LD,TWD,LEFT,201 lb,"6' 1""",ROMAN JOSI,Roman Josi,8474600.0,Roman Josi,Two-Way Defenseman
+NSH,LW,TWF,RIGHT,205 lb,"6' 1""",FILIP FORSBERG,Filip Forsberg,8476887.0,Filip Forsberg,Two-Way Forward
+NSH,C,PLY,LEFT,195 lb,"5' 11""",MATT DUCHENE,Matt Duchene,8475168.0,Matt Duchene,Playmaker
+NSH,LD,TWD,LEFT,215 lb,"6' 4""",MATTIAS EKHOLM,Mattias Ekholm,8475218.0,Mattias Ekholm,Two-Way Defenseman
+NSH,C,PLY,RIGHT,218 lb,"6' 3""",RYAN JOHANSEN,Ryan Johansen,8475793.0,Ryan Johansen,Playmaker
+NSH,RW,TWF,RIGHT,200 lb,"6' 1""",COLTON SISSONS,Colton Sissons,8476925.0,Colton Sissons,Two-Way Forward
+NSH,RD,TWD,RIGHT,189 lb,"6' 0""",DANTE FABBRO,Dante Fabbro,8479371.0,Dante Fabbro,Two-Way Defenseman
+NSH,LW,SNP,LEFT,191 lb,"5' 10""",EELI TOLVANEN,Eeli Tolvanen,8480009.0,Eeli Tolvanen,Sniper
+NSH,C,TWF,RIGHT,197 lb,"6' 0""",LUKE KUNIN,Luke Kunin,8479316.0,Luke Kunin,Two-Way Forward
+NSH,C,TWF,LEFT,185 lb,"5' 10""",MIKAEL GRANLUND,Mikael Granlund,8475798.0,Mikael Granlund,Two-Way Forward
+NSH,C,TWF,RIGHT,185 lb,"6' 2""",CODY GLASS,Cody Glass,8479996.0,Cody Glass,Two-Way Forward
+NSH,C,PLY,LEFT,183 lb,"5' 11""",NICK COUSINS,Nick Cousins,8476393.0,Nick Cousins,Playmaker
+NSH,RD,TWD,RIGHT,210 lb,"6' 5""",PHILIPPE MYERS,Philippe Myers,8479026.0,Philippe Myers,Two-Way Defenseman
+NSH,RW,GRN,RIGHT,210 lb,"6' 2""",MATHIEU OLIVIER,Mathieu Olivier,8479671.0,Mathieu Olivier,Grinder
+NSH,RD,TWD,RIGHT,203 lb,"6' 1""",MATT BENNING,Matt Benning,8476988.0,Matt Benning,Two-Way Defenseman
+NSH,RW,TWF,RIGHT,196 lb,"6' 3""",MATT LUFF,Matt Luff,8479644.0,Matt Luff,Two-Way Forward
+NSH,RW,SNP,RIGHT,180 lb,"5' 6""",ROCCO GRIMALDI,Rocco Grimaldi,8476428.0,Rocco Grimaldi,Sniper
+NSH,C,TWF,LEFT,201 lb,"6' 2""",YAKOV TRENIN,Yakov Trenin,8478508.0,Yakov Trenin,Two-Way Forward
+NSH,RD,OFD,RIGHT,183 lb,"5' 11""",ALEXANDRE CARRIER,Alexandre Carrier,8478851.0,Alexandre Carrier,Offensive Defenseman
+NSH,LD,DFD,LEFT,223 lb,"6' 6""",BEN HARPUR,Ben Harpur,8477433.0,Ben Harpur,Defensive Defenseman
+NSH,LD,TWD,LEFT,181 lb,"5' 11""",JEREMY DAVIES,Jeremy Davies,8479602.0,Jeremy Davies,Two-Way Defenseman
+NSH,LD,DFD,LEFT,204 lb,"6' 2""",MARK BOROWIECKI,Mark Borowiecki,8474697.0,Mark Borowiecki,Defensive Defenseman
+NSH,RD,TWD,RIGHT,205 lb,"6' 3""",MATT TENNYSON,Matt Tennyson,8476807.0,Matt Tennyson,Two-Way Defenseman
+NYI,C,PLY,RIGHT,187 lb,"6' 0""",MATHEW BARZAL,Mathew Barzal,8478445.0,Mathew Barzal,Playmaker
+NYI,LW,PWF,LEFT,235 lb,"6' 3""",ANDERS LEE,Anders Lee,8475314.0,Anders Lee,Power Forward
+NYI,C,PWF,LEFT,212 lb,"6' 3""",BROCK NELSON,Brock Nelson,8475754.0,Brock Nelson,Power Forward
+NYI,LD,DFD,LEFT,217 lb,"6' 3""",ADAM PELECH,Adam Pelech,8476917.0,Adam Pelech,Defensive Defenseman
+NYI,LW,TWF,LEFT,200 lb,"6' 1""",JOSH BAILEY,Josh Bailey,8474573.0,Josh Bailey,Two-Way Forward
+NYI,RW,TWF,RIGHT,185 lb,"5' 11""",KYLE PALMIERI,Kyle Palmieri,8475151.0,Kyle Palmieri,Two-Way Forward
+NYI,RD,TWD,RIGHT,214 lb,"6' 2""",RYAN PULOCK,Ryan Pulock,8477506.0,Ryan Pulock,Two-Way Defenseman
+NYI,LW,TWF,LEFT,182 lb,"5' 11""",ANTHONY BEAUVILLIER,Anthony Beauvillier,8478463.0,Anthony Beauvillier,Two-Way Forward
+NYI,C,TWF,LEFT,195 lb,"5' 11""",CASEY CIZIKAS,Casey Cizikas,8475231.0,Casey Cizikas,Two-Way Forward
+NYI,C,TWF,RIGHT,180 lb,"5' 10""",JEAN-GABRIEL PAGEAU,Jean-Gabriel Pageau,8476419.0,Jean-Gabriel Pageau,Two-Way Forward
+NYI,RD,TWD,RIGHT,195 lb,"6' 3""",NOAH DOBSON,Noah Dobson,8480865.0,Noah Dobson,Two-Way Defenseman
+NYI,RW,SNP,RIGHT,212 lb,"6' 3""",OLIVER WAHLSTROM,Oliver Wahlstrom,8480789.0,Oliver Wahlstrom,Sniper
+NYI,RW,GRN,RIGHT,215 lb,"5' 11""",CAL CLUTTERBUCK,Cal Clutterbuck,8473504.0,Cal Clutterbuck,Grinder
+NYI,C,PWF,LEFT,194 lb,"6' 1""",KIEFFER BELLOWS,Kieffer Bellows,8479356.0,Kieffer Bellows,Power Forward
+NYI,LW,TWF,LEFT,208 lb,"6' 0""",LEO KOMAROV,Leo Komarov,8473463.0,Leo Komarov,Two-Way Forward
+NYI,LW,GRN,LEFT,220 lb,"6' 4""",MATT MARTIN,Matt Martin,8474709.0,Matt Martin,Grinder
+NYI,RW,TWF,LEFT,203 lb,"6' 3""",RICHARD PANIK,Richard Panik,8475209.0,Richard Panik,Two-Way Forward
+NYI,RD,DFD,RIGHT,220 lb,"6' 5""",SCOTT MAYFIELD,Scott Mayfield,8476429.0,Scott Mayfield,Defensive Defenseman
+NYI,LW,TWF,LEFT,193 lb,"5' 11""",ZACH PARISE,Zach Parise,8470610.0,Zach Parise,Two-Way Forward
+NYI,LD,DFD,LEFT,250 lb,"6' 9""",ZDENO CHARA,Zdeno Chara,8465009.0,Zdeno Chara,Defensive Defenseman
+NYI,LD,TWD,LEFT,190 lb,"5' 11""",ANDY GREENE,Andy Greene,8472382.0,Andy Greene,Two-Way Defenseman
+NYI,RW,PLY,RIGHT,161 lb,"5' 9""",AUSTIN CZARNIK,Austin Czarnik,8478512.0,Austin Czarnik,Playmaker
+NYI,LW,ENF,LEFT,235 lb,"6' 5""",ROSS JOHNSTON,Ross Johnston,8477527.0,Ross Johnston,Enforcer
+NYI,LD,TWD,LEFT,186 lb,"6' 0""",THOMAS HICKEY,Thomas Hickey,8474066.0,Thomas Hickey,Two-Way Defenseman
+NYI,RD,DFD,RIGHT,227 lb,"6' 2""",JOHNNY BOYCHUK,Johnny Boychuk,8470187.0,Johnny Boychuk,Defensive Defenseman
+NYR,LW,PLY,RIGHT,170 lb,"5' 11""",ARTEMI PANARIN,Artemi Panarin,8478550.0,Artemi Panarin,Playmaker
+NYR,RD,OFD,RIGHT,181 lb,"5' 11""",ADAM FOX,Adam Fox,8479323.0,Adam Fox,Offensive Defenseman
+NYR,C,SNP,RIGHT,208 lb,"6' 2""",MIKA ZIBANEJAD,Mika Zibanejad,8476459.0,Mika Zibanejad,Sniper
+NYR,LW,PWF,LEFT,224 lb,"6' 3""",CHRIS KREIDER,Chris Kreider,8475184.0,Chris Kreider,Power Forward
+NYR,LW,PLY,LEFT,193 lb,"6' 2""",ALEXIS LAFRENIERE,Alexis Lafreniere,8482109.0,Alexis Lafrenière,Playmaker
+NYR,C,TWF,LEFT,206 lb,"6' 2""",FILIP CHYTIL,Filip Chytil,8480078.0,Filip Chytil,Two-Way Forward
+NYR,RD,TWD,RIGHT,209 lb,"6' 3""",JACOB TROUBA,Jacob Trouba,8476885.0,Jacob Trouba,Two-Way Defenseman
+NYR,C,PLY,RIGHT,193 lb,"6' 1""",RYAN STROME,Ryan Strome,8476458.0,Ryan Strome,Playmaker
+NYR,LW,GRN,LEFT,203 lb,"6' 2""",BARCLAY GOODROW,Barclay Goodrow,8476624.0,Barclay Goodrow,Grinder
+NYR,RW,TWF,LEFT,199 lb,"6' 3""",KAAPO KAKKO,Kaapo Kakko,8481554.0,Kaapo Kakko,Two-Way Forward
+NYR,RW,TWF,LEFT,205 lb,"6' 2""",SAMMY BLAIS,Sammy Blais,8478104.0,Sammy Blais,Two-Way Forward
+NYR,LD,TWD,LEFT,210 lb,"6' 5""",K'ANDRE MILLER,K'Andre Miller,8480817.0,K'Andre Miller,Two-Way Defenseman
+NYR,LD,DFD,LEFT,191 lb,"6' 0""",RYAN LINDGREN,Ryan Lindgren,8479324.0,Ryan Lindgren,Defensive Defenseman
+NYR,RW,GRN,RIGHT,225 lb,"6' 1""",RYAN REAVES,Ryan Reaves,8471817.0,Ryan Reaves,Grinder
+NYR,RW,PWF,LEFT,187 lb,"6' 4""",VITALI KRAVTSOV,Vitali Kravtsov,8480833.0,Vitali Kravtsov,Power Forward
+NYR,LW,TWF,LEFT,192 lb,"6' 0""",DRYDEN HUNT,Dryden Hunt,8478211.0,Dryden Hunt,Two-Way Forward
+NYR,RW,PWF,RIGHT,227 lb,"6' 4""",JULIEN GAUTHIER,Julien Gauthier,8479328.0,Julien Gauthier,Power Forward
+NYR,LD,DFD,LEFT,228 lb,"6' 3""",PATRIK NEMETH,Patrik Nemeth,8475747.0,Patrik Nemeth,Defensive Defenseman
+NYR,C,TWF,LEFT,192 lb,"6' 0""",GREG MCKEGG,Greg Mckegg,8475735.0,Greg McKegg,Two-Way Forward
+NYR,C,TWF,LEFT,190 lb,"6' 3""",KEVIN ROONEY,Kevin Rooney,8479291.0,Kevin Rooney,Two-Way Forward
+NYR,LD,DFD,LEFT,205 lb,"6' 2""",LIBOR HAJEK,Libor Hajek,8479333.0,Libor Hajek,Defensive Defenseman
+NYR,LD,DFD,LEFT,230 lb,"6' 6""",JARRED TINORDI,Jarred Tinordi,8475797.0,Jarred Tinordi,Defensive Defenseman
+OTT,LD,TWD,LEFT,190 lb,"6' 2""",THOMAS CHABOT,Thomas Chabot,8478469.0,Thomas Chabot,Two-Way Defenseman
+OTT,LW,PWF,LEFT,212 lb,"6' 4""",BRADY TKACHUK,Brady Tkachuk,8480801.0,Brady Tkachuk,Power Forward
+OTT,RW,TWF,RIGHT,186 lb,"6' 0""",CONNOR BROWN,Connor Brown,8477015.0,Connor Brown,Two-Way Forward
+OTT,C,SNP,RIGHT,206 lb,"6' 3""",DRAKE BATHERSON,Drake Batherson,8480208.0,Drake Batherson,Sniper
+OTT,C,TWF,LEFT,192 lb,"6' 2""",JOSH NORRIS,Josh Norris,8480064.0,Josh Norris,Two-Way Forward
+OTT,C,PLY,LEFT,187 lb,"6' 1""",TIM STUTZLE,Tim Stutzle,8482116.0,Tim Stützle,Playmaker
+OTT,C,TWF,LEFT,195 lb,"6' 1""",CHRIS TIERNEY,Chris Tierney,8476919.0,Chris Tierney,Two-Way Forward
+OTT,RD,OFD,LEFT,181 lb,"5' 10""",ERIK BRANNSTROM,Erik Brannstrom,8480073.0,Erik Brannstrom,Offensive Defenseman
+OTT,C,PWF,LEFT,219 lb,"6' 3""",NICK PAUL,Nick Paul,8477426.0,Nicholas Paul,Power Forward
+OTT,LW,GRN,LEFT,207 lb,"6' 4""",ZACH SANFORD,Zach Sanford,8477482.0,Zach Sanford,Grinder
+OTT,LW,SNP,LEFT,190 lb,"6' 3""",ALEX FORMENTON,Alex Formenton,8480029.0,Alex Formenton,Sniper
+OTT,RD,TWD,RIGHT,198 lb,"6' 2""",ARTEM ZUB,Artem Zub,8482245.0,Artem Zub,Two-Way Defenseman
+OTT,RW,TWF,RIGHT,191 lb,"6' 1""",COLIN WHITE,Colin White,8478400.0,Colin White,Two-Way Forward
+OTT,RD,TWD,RIGHT,195 lb,"6' 2""",NIKITA ZAITSEV,Nikita Zaitsev,8479458.0,Nikita Zaitsev,Two-Way Defenseman
+OTT,RW,GRN,RIGHT,204 lb,"6' 4""",AUSTIN WATSON,Austin Watson,8475766.0,Austin Watson,Grinder
+OTT,LD,TWD,LEFT,195 lb,"6' 0""",MICHAEL DEL ZOTTO,Michael Del Zotto,8474584.0,Michael Del Zotto,Two-Way Defenseman
+OTT,RW,GRN,RIGHT,205 lb,"6' 3""",SCOTT SABOURIN,Scott Sabourin,8477149.0,Scott Sabourin,Grinder
+OTT,LD,TWD,LEFT,184 lb,"5' 9""",VICTOR METE,Victor Mete,8479376.0,Victor Mete,Two-Way Defenseman
+OTT,RD,DFD,RIGHT,217 lb,"6' 5""",JOSH BROWN,Josh Brown,8477384.0,Josh Brown,Defensive Defenseman
+OTT,LD,DFD,LEFT,212 lb,"6' 4""",NICK HOLDEN,Nick Holden,8474207.0,Nick Holden,Defensive Defenseman
+PHI,C,TWF,LEFT,211 lb,"6' 3""",SEAN COUTURIER,Sean Couturier,8476461.0,Sean Couturier,Two-Way Forward
+PHI,C,PLY,RIGHT,185 lb,"5' 11""",CLAUDE GIROUX,Claude Giroux,8473512.0,Claude Giroux,Playmaker
+PHI,LD,TWD,LEFT,201 lb,"6' 1""",IVAN PROVOROV,Ivan Provorov,8478500.0,Ivan Provorov,Two-Way Defenseman
+PHI,LW,SNP,LEFT,217 lb,"6' 3""",JAMES VAN RIEMSDYK,James Van Riemsdyk,8474037.0,James van Riemsdyk,Sniper
+PHI,LD,OFD,LEFT,192 lb,"6' 1""",KEITH YANDLE,Keith Yandle,8471735.0,Keith Yandle,Offensive Defenseman
+PHI,C,PWF,LEFT,216 lb,"6' 5""",KEVIN HAYES,Kevin Hayes,8475763.0,Kevin Hayes,Power Forward
+PHI,RD,TWD,RIGHT,180 lb,"5' 10""",RYAN ELLIS,Ryan Ellis,8475176.0,Ryan Ellis,Two-Way Defenseman
+PHI,RW,SNP,RIGHT,176 lb,"5' 8""",CAM ATKINSON,Cam Atkinson,8474715.0,Cam Atkinson,Sniper
+PHI,LW,TWF,LEFT,164 lb,"6' 0""",JOEL FARABEE,Joel Farabee,8480797.0,Joel Farabee,Two-Way Forward
+PHI,LW,TWF,LEFT,191 lb,"6' 1""",OSKAR LINDBLOM,Oskar Lindblom,8478067.0,Oskar Lindblom,Two-Way Forward
+PHI,RD,TWD,RIGHT,221 lb,"6' 4""",RASMUS RISTOLAINEN,Rasmus Ristolainen,8477499.0,Rasmus Ristolainen,Two-Way Defenseman
+PHI,RW,TWF,RIGHT,175 lb,"5' 10""",TRAVIS KONECNY,Travis Konecny,8478439.0,Travis Konecny,Two-Way Forward
+PHI,C,TWF,LEFT,190 lb,"6' 1""",SCOTT LAUGHTON,Scott Laughton,8476872.0,Scott Laughton,Two-Way Forward
+PHI,LD,TWD,LEFT,181 lb,"6' 3""",TRAVIS SANHEIM,Travis Sanheim,8477948.0,Travis Sanheim,Two-Way Defenseman
+PHI,RD,DFD,RIGHT,205 lb,"6' 2""",JUSTIN BRAUN,Justin Braun,8474027.0,Justin Braun,Defensive Defenseman
+PHI,C,GRN,LEFT,207 lb,"6' 1""",CONNOR BUNNAMAN,Connor Bunnaman,8479382.0,Connor Bunnaman,Grinder
+PHI,C,PLY,LEFT,170 lb,"5' 11""",MORGAN FROST,Morgan Frost,8480028.0,Morgan Frost,Playmaker
+PHI,C,GRN,LEFT,205 lb,"6' 0""",NATE THOMPSON,Nate Thompson,8470775.0,Nate Thompson,Grinder
+PHI,RW,TWF,RIGHT,187 lb,"5' 11""",NICOLAS AUBE-KUBEL,Nicolas Aube-Kubel,8477979.0,Nicolas Aube-Kubel,Two-Way Forward
+PIT,C,PLY,LEFT,200 lb,"5' 11""",SIDNEY CROSBY,Sidney Crosby,8471675.0,Sidney Crosby,Playmaker
+PIT,C,PLY,LEFT,195 lb,"6' 3""",EVGENI MALKIN,Evgeni Malkin,8471215.0,Evgeni Malkin,Playmaker
+PIT,LW,SNP,LEFT,180 lb,"5' 11""",JAKE GUENTZEL,Jake Guentzel,8477404.0,Jake Guentzel,Sniper
+PIT,RD,TWD,RIGHT,201 lb,"6' 0""",KRIS LETANG,Kris Letang,8471724.0,Kris Letang,Two-Way Defenseman
+PIT,RW,TWF,RIGHT,192 lb,"5' 11""",BRYAN RUST,Bryan Rust,8475810.0,Bryan Rust,Two-Way Forward
+PIT,LW,SNP,LEFT,192 lb,"5' 11""",JASON ZUCKER,Jason Zucker,8475722.0,Jason Zucker,Sniper
+PIT,C,SNP,RIGHT,219 lb,"6' 3""",JEFF CARTER,Jeff Carter,8470604.0,Jeff Carter,Sniper
+PIT,RW,TWF,RIGHT,194 lb,"6' 1""",KASPERI KAPANEN,Kasperi Kapanen,8477953.0,Kasperi Kapanen,Two-Way Forward
+PIT,RD,TWD,RIGHT,181 lb,"6' 1""",JOHN MARINO,John Marino,8478507.0,John Marino,Two-Way Defenseman
+PIT,C,TWF,LEFT,185 lb,"6' 0""",TEDDY BLUEGER,Teddy Blueger,8476927.0,Teddy Blueger,Two-Way Forward
+PIT,C,PWF,LEFT,245 lb,"6' 6""",BRIAN BOYLE,Brian Boyle,8470619.0,Brian Boyle,Power Forward
+PIT,LD,DFD,LEFT,207 lb,"6' 4""",BRIAN DUMOULIN,Brian Dumoulin,8475208.0,Brian Dumoulin,Defensive Defenseman
+PIT,LW,TWF,LEFT,187 lb,"6' 0""",BROCK MCGINN,Brock Mcginn,8476934.0,Brock McGinn,Two-Way Forward
+PIT,C,TWF,LEFT,188 lb,"6' 1""",DANTON HEINEN,Danton Heinen,8478046.0,Danton Heinen,Two-Way Forward
+PIT,LD,TWD,LEFT,177 lb,"6' 4""",MARCUS PETTERSSON,Marcus Pettersson,8477969.0,Marcus Pettersson,Two-Way Defenseman
+PIT,LD,TWD,LEFT,188 lb,"6' 2""",MICHAEL MATHESON,Michael Matheson,8476875.0,Mike Matheson,Two-Way Defenseman
+PIT,LW,TWF,LEFT,205 lb,"6' 0""",ZACH ASTON-REESE,Zach Aston-Reese,8479944.0,Zach Aston-Reese,Two-Way Forward
+PIT,RD,TWD,RIGHT,191 lb,"5' 11""",CHAD RUHWEDEL,Chad Ruhwedel,8477244.0,Chad Ruhwedel,Two-Way Defenseman
+PIT,RW,PLY,LEFT,190 lb,"5' 11""",DOMINIK SIMON,Dominik Simon,8478866.0,Dominik Simon,Playmaker
+PIT,C,PLY,RIGHT,184 lb,"5' 11""",EVAN RODRIGUES,Evan Rodrigues,8478542.0,Evan Rodrigues,Playmaker
+PIT,LW,PWF,LEFT,229 lb,"6' 6""",RADIM ZOHORNA,Radim Zohorna,8482241.0,Radim Zohorna,Power Forward
+PIT,C,TWF,RIGHT,194 lb,"6' 1""",SAM LAFFERTY,Sam Lafferty,8478043.0,Sam Lafferty,Two-Way Forward
+PIT,LW,TWF,LEFT,190 lb,"6' 3""",DREW O'CONNOR,Drew O'Connor,8482055.0,Drew O'Connor,Two-Way Forward
+PIT,LD,TWD,LEFT,189 lb,"6' 0""",JUUSO RIIKOLA,Juuso Riikola,8480945.0,Juuso Riikola,Two-Way Defenseman
+PIT,RD,TWD,RIGHT,201 lb,"6' 1""",TAYLOR FEDUN,Taylor Fedun,8476166.0,Taylor Fedun,Two-Way Defenseman
+PIT,RD,TWD,RIGHT,185 lb,"5' 11""",MARK FRIEDMAN,Mark Friedman,8478017.0,Mark Friedman,Two-Way Defenseman
+PIT,C,TWF,LEFT,199 lb,"6' 2""",MICHAEL CHAPUT,Michael Chaput,8475808.0,Michael Chaput,Two-Way Forward
+SEA,LW,TWF,LEFT,190 lb,"5' 10""",JADEN SCHWARTZ,Jaden Schwartz,8475768.0,Jaden Schwartz,Two-Way Forward
+SEA,C,TWF,LEFT,173 lb,"5' 9""",YANNI GOURDE,Yanni Gourde,8476826.0,Yanni Gourde,Two-Way Forward
+SEA,C,TWF,LEFT,185 lb,"6' 1""",JARED MCCANN,Jared Mccann,8477955.0,Jared McCann,Two-Way Forward
+SEA,RW,SNP,RIGHT,187 lb,"5' 11""",JORDAN EBERLE,Jordan Eberle,8474586.0,Jordan Eberle,Sniper
+SEA,LD,TWD,LEFT,200 lb,"6' 1""",MARK GIORDANO,Mark Giordano,8470966.0,Mark Giordano,Two-Way Defenseman
+SEA,RD,DFD,RIGHT,208 lb,"6' 3""",ADAM LARSSON,Adam Larsson,8476457.0,Adam Larsson,Defensive Defenseman
+SEA,C,PLY,LEFT,196 lb,"6' 2""",ALEXANDER WENNBERG,Alexander Wennberg,8477505.0,Alex Wennberg,Playmaker
+SEA,LW,TWF,LEFT,180 lb,"6' 0""",BRANDON TANEV,Brandon Tanev,8479293.0,Brandon Tanev,Two-Way Forward
+SEA,LW,SNP,RIGHT,186 lb,"5' 11""",CALLE JARNKROK,Calle Jarnkrok,8475714.0,Calle Jarnkrok,Sniper
+SEA,LD,DFD,LEFT,255 lb,"6' 7""",JAMIE OLEKSIAK,Jamie Oleksiak,8476467.0,Jamie Oleksiak,Defensive Defenseman
+SEA,RW,TWF,RIGHT,190 lb,"6' 0""",JOONAS DONSKOI,Joonas Donskoi,8475820.0,Joonas Donskoi,Two-Way Forward
+SEA,C,TWF,RIGHT,193 lb,"6' 2""",MASON APPLETON,Mason Appleton,8478891.0,Mason Appleton,Two-Way Forward
+SEA,LD,TWD,LEFT,203 lb,"6' 0""",VINCE DUNN,Vince Dunn,8478407.0,Vince Dunn,Two-Way Defenseman
+SEA,C,TWF,RIGHT,190 lb,"5' 9""",COLIN BLACKWELL,Colin Blackwell,8476278.0,Colin Blackwell,Two-Way Forward
+SEA,LD,TWD,LEFT,196 lb,"6' 0""",DENNIS CHOLOWSKI,Dennis Cholowski,8479395.0,Dennis Cholowski,Two-Way Defenseman
+SEA,LD,TWD,LEFT,208 lb,"6' 3""",HAYDN FLEURY,Haydn Fleury,8477938.0,Haydn Fleury,Two-Way Defenseman
+SEA,C,PLY,LEFT,203 lb,"5' 11""",MARCUS JOHANSSON,Marcus Johansson,8475149.0,Marcus Johansson,Playmaker
+SEA,LW,TWF,LEFT,192 lb,"6' 0""",RYAN DONATO,Ryan Donato,8477987.0,Ryan Donato,Two-Way Forward
+SEA,LD,DFD,LEFT,211 lb,"6' 5""",CARSON SOUCY,Carson Soucy,8477369.0,Carson Soucy,Defensive Defenseman
+SEA,RW,TWF,RIGHT,205 lb,"6' 4""",NATHAN BASTIAN,Nathan Bastian,8479414.0,Nathan Bastian,Two-Way Forward
+SEA,C,TWF,LEFT,216 lb,"6' 2""",RILEY SHEAHAN,Riley Sheahan,8475772.0,Riley Sheahan,Two-Way Forward
+SEA,C,TWF,LEFT,201 lb,"6' 5""",ALEXANDER TRUE,Alexander True,8480384.0,Alexander True,Two-Way Forward
+SEA,RD,TWD,RIGHT,213 lb,"6' 1""",CALE FLEURY,Cale Fleury,8479985.0,Cale Fleury,Two-Way Defenseman
+SEA,LW,GRN,LEFT,198 lb,"6' 2""",CARSEN TWARYNSKI,Carsen Twarynski,8479358.0,Carsen Twarynski,Grinder
+SEA,LD,DFD,LEFT,204 lb,"6' 2""",JEREMY LAUZON,Jeremy Lauzon,8478468.0,Jeremy Lauzon,Defensive Defenseman
+SEA,RW,TWF,RIGHT,186 lb,"6' 1""",KOLE LIND,Kole Lind,8479986.0,Kole Lind,Two-Way Forward
+SEA,C,TWF,RIGHT,192 lb,"6' 3""",MORGAN GEEKIE,Morgan Geekie,8479987.0,Morgan Geekie,Two-Way Forward
+SEA,LD,DFD,LEFT,196 lb,"6' 3""",GUSTAV OLOFSSON,Gustav Olofsson,8477467.0,Gustav Olofsson,Defensive Defenseman
+SEA,RD,DFD,RIGHT,205 lb,"6' 3""",WILL BORGEN,Will Borgen,8478840.0,Will Borgen,Defensive Defenseman
+SEA,C,PWF,RIGHT,240 lb,"6' 7""",MATTHEW REMPE,Matthew Rempe,8482460.0,Matt Rempe,Power Forward
+SJS,C,SNP,LEFT,215 lb,"6' 2""",TOMAS HERTL,Tomas Hertl,8476881.0,Tomas Hertl,Sniper
+SJS,RD,OFD,RIGHT,230 lb,"6' 5""",BRENT BURNS,Brent Burns,8470613.0,Brent Burns,Offensive Defenseman
+SJS,RD,OFD,RIGHT,190 lb,"6' 0""",ERIK KARLSSON,Erik Karlsson,8474578.0,Erik Karlsson,Offensive Defenseman
+SJS,LW,PWF,LEFT,210 lb,"6' 2""",EVANDER KANE,Evander Kane,8475169.0,Evander Kane,Power Forward
+SJS,C,PLY,LEFT,200 lb,"6' 1""",LOGAN COUTURE,Logan Couture,8474053.0,Logan Couture,Playmaker
+SJS,RW,PWF,LEFT,210 lb,"6' 0""",TIMO MEIER,Timo Meier,8478414.0,Timo Meier,Power Forward
+SJS,RW,TWF,RIGHT,185 lb,"5' 11""",KEVIN LABANC,Kevin Labanc,8478099.0,Kevin Labanc,Two-Way Forward
+SJS,C,TWF,LEFT,195 lb,"6' 1""",NICK BONINO,Nick Bonino,8474009.0,Nick Bonino,Two-Way Forward
+SJS,C,TWF,RIGHT,185 lb,"6' 0""",DYLAN GAMBRELL,Dylan Gambrell,8479580.0,Dylan Gambrell,Two-Way Forward
+SJS,LD,TWD,LEFT,185 lb,"5' 11""",MARIO FERRARO,Mario Ferraro,8479983.0,Mario Ferraro,Two-Way Defenseman
+SJS,LW,TWF,LEFT,185 lb,"5' 11""",MATT NIETO,Matt Nieto,8476442.0,Matt Nieto,Two-Way Forward
+SJS,LW,SNP,LEFT,174 lb,"5' 11""",RUDOLFS BALCERS,Rudolfs Balcers,8478870.0,Rudolfs Balcers,Sniper
+SJS,RW,TWF,LEFT,192 lb,"5' 10""",ALEXANDER BARABANOV,Alexander Barabanov,8482222.0,Alexander Barabanov,Two-Way Forward
+SJS,LW,TWF,LEFT,175 lb,"5' 10""",ANDREW COGLIANO,Andrew Cogliano,8471699.0,Andrew Cogliano,Two-Way Forward
+SJS,LW,TWF,LEFT,183 lb,"5' 11""",JOHN LEONARD,John Leonard,8481077.0,John Leonard,Two-Way Forward
+SJS,LD,DFD,LEFT,205 lb,"6' 1""",MARC-EDOUARD VLASIC,Marc-Edouard Vlasic,8471709.0,Marc-Edouard Vlasic,Defensive Defenseman
+SJS,LD,TWD,LEFT,200 lb,"6' 0""",RADIM SIMEK,Radim Simek,8480160.0,Radim Simek,Two-Way Defenseman
+SJS,C,TWF,LEFT,185 lb,"6' 0""",NOAH GREGOR,Noah Gregor,8479393.0,Noah Gregor,Two-Way Forward
+STL,C,TWF,LEFT,216 lb,"6' 1""",RYAN O'REILLY,Ryan O'Reilly,8475158.0,Ryan O'Reilly,Two-Way Forward
+STL,RW,SNP,LEFT,225 lb,"6' 0""",VLADIMIR TARASENKO,Vladimir Tarasenko,8475765.0,Vladimir Tarasenko,Sniper
+STL,C,TWF,LEFT,200 lb,"6' 1""",BRAYDEN SCHENN,Brayden Schenn,8475170.0,Brayden Schenn,Two-Way Forward
+STL,LW,TWF,RIGHT,200 lb,"6' 0""",DAVID PERRON,David Perron,8474102.0,David Perron,Two-Way Forward
+STL,RD,OFD,RIGHT,217 lb,"6' 0""",JUSTIN FAULK,Justin Faulk,8475753.0,Justin Faulk,Offensive Defenseman
+STL,RW,PLY,LEFT,192 lb,"6' 1""",PAVEL BUCHNEVICH,Pavel Buchnevich,8477402.0,Pavel Buchnevich,Playmaker
+STL,LD,OFD,LEFT,186 lb,"5' 9""",TOREY KRUG,Torey Krug,8476792.0,Torey Krug,Offensive Defenseman
+STL,LW,TWF,LEFT,206 lb,"6' 1""",BRANDON SAAD,Brandon Saad,8476438.0,Brandon Saad,Two-Way Forward
+STL,RD,TWD,RIGHT,230 lb,"6' 6""",COLTON PARAYKO,Colton Parayko,8476892.0,Colton Parayko,Two-Way Defenseman
+STL,RW,TWF,RIGHT,188 lb,"6' 0""",ROBERT THOMAS,Robert Thomas,8480023.0,Robert Thomas,Two-Way Forward
+STL,C,TWF,LEFT,187 lb,"6' 0""",IVAN BARBASHEV,Ivan Barbashev,8477964.0,Ivan Barbashev,Two-Way Forward
+STL,RW,PLY,RIGHT,195 lb,"6' 1""",JORDAN KYROU,Jordan Kyrou,8479385.0,Jordan Kyrou,Playmaker
+STL,C,TWF,RIGHT,199 lb,"6' 1""",TYLER BOZAK,Tyler Bozak,8475098.0,Tyler Bozak,Two-Way Forward
+STL,LW,GRN,LEFT,211 lb,"6' 2""",KYLE CLIFFORD,Kyle Clifford,8475160.0,Kyle Clifford,Grinder
+STL,C,TWF,RIGHT,209 lb,"6' 3""",OSKAR SUNDQVIST,Oskar Sundqvist,8476897.0,Oskar Sundqvist,Two-Way Forward
+STL,LW,TWF,LEFT,205 lb,"6' 3""",MACKENZIE MACEACHERN,Mackenzie Maceachern,8476907.0,Mackenzie MacEachern,Two-Way Forward
+STL,LD,DFD,LEFT,212 lb,"6' 3""",MARCO SCANDELLA,Marco Scandella,8474618.0,Marco Scandella,Defensive Defenseman
+STL,LD,DFD,LEFT,201 lb,"6' 1""",JAKE WALMAN,Jake Walman,8478013.0,Jake Walman,Defensive Defenseman
+STL,LD,DFD,LEFT,185 lb,"6' 4""",NIKO MIKKOLA,Niko Mikkola,8478859.0,Niko Mikkola,Defensive Defenseman
+STL,RD,DFD,RIGHT,216 lb,"6' 4""",ROBERT BORTUZZO,Robert Bortuzzo,8474145.0,Robert Bortuzzo,Defensive Defenseman
+TBL,RW,SNP,LEFT,179 lb,"5' 11""",NIKITA KUCHEROV,Nikita Kucherov,8476453.0,Nikita Kucherov,Sniper
+TBL,C,PLY,RIGHT,194 lb,"6' 1""",STEVEN STAMKOS,Steven Stamkos,8474564.0,Steven Stamkos,Playmaker
+TBL,C,PLY,RIGHT,183 lb,"5' 10""",BRAYDEN POINT,Brayden Point,8478010.0,Brayden Point,Playmaker
+TBL,LD,TWD,LEFT,223 lb,"6' 6""",VICTOR HEDMAN,Victor Hedman,8475167.0,Victor Hedman,Two-Way Defenseman
+TBL,LW,PLY,LEFT,194 lb,"6' 0""",ONDREJ PALAT,Ondrej Palat,8476292.0,Ondrej Palat,Playmaker
+TBL,LW,TWF,LEFT,199 lb,"6' 1""",ALEX KILLORN,Alex Killorn,8473986.0,Alex Killorn,Two-Way Forward
+TBL,C,TWF,LEFT,191 lb,"6' 0""",ANTHONY CIRELLI,Anthony Cirelli,8478519.0,Anthony Cirelli,Two-Way Forward
+TBL,LD,TWD,LEFT,216 lb,"6' 3""",MIKHAIL SERGACHEV,Mikhail Sergachev,8479410.0,Mikhail Sergachev,Two-Way Defenseman
+TBL,LD,TWD,LEFT,215 lb,"6' 1""",RYAN MCDONAGH,Ryan Mcdonagh,8474151.0,Ryan McDonagh,Two-Way Defenseman
+TBL,RW,GRN,RIGHT,206 lb,"6' 3""",COREY PERRY,Corey Perry,8470621.0,Corey Perry,Grinder
+TBL,LW,PWF,LEFT,238 lb,"6' 3""",PATRICK MAROON,Patrick Maroon,8474034.0,Pat Maroon,Power Forward
+TBL,RD,DFD,RIGHT,230 lb,"6' 4""",ERIK CERNAK,Erik Cernak,8478416.0,Erik Cernak,Defensive Defenseman
+TBL,RD,DFD,RIGHT,204 lb,"6' 3""",JAN RUTTA,Jan Rutta,8480172.0,Jan Rutta,Defensive Defenseman
+TBL,RW,TWF,LEFT,190 lb,"6' 1""",MATHIEU JOSEPH,Mathieu Joseph,8478472.0,Mathieu Joseph,Two-Way Forward
+TBL,LW,TWF,LEFT,198 lb,"6' 0""",PIERRE-EDOUARD BELLEMARE,Pierre-Edouard Bellemare,8477930.0,Pierre-Edouard Bellemare,Two-Way Forward
+TBL,RD,TWD,RIGHT,227 lb,"6' 5""",CAL FOOTE,Cal Foote,8479984.0,Cal Foote,Two-Way Defenseman
+TBL,C,TWF,LEFT,195 lb,"5' 11""",GEMEL SMITH,Gemel Smith,8476966.0,Gemel Smith,Two-Way Forward
+TBL,C,PLY,LEFT,170 lb,"5' 10""",ALEX BARRE-BOULET,Alex Barre-Boulet,8479718.0,Alex Barré-Boulet,Playmaker
+TBL,C,TWF,LEFT,209 lb,"6' 0""",ROSS COLTON,Ross Colton,8479525.0,Ross Colton,Two-Way Forward
+TBL,RD,DFD,RIGHT,220 lb,"6' 4""",ZACH BOGOSIAN,Zach Bogosian,8474567.0,Zach Bogosian,Defensive Defenseman
+TBL,RD,TWD,RIGHT,220 lb,"6' 3""",BRENT SEABROOK,Brent Seabrook,8470607.0,Brent Seabrook,Two-Way Defenseman
+TOR,C,SNP,LEFT,220 lb,"6' 3""",AUSTON MATTHEWS,Auston Matthews,8479318.0,Auston Matthews,Sniper
+TOR,RW,PLY,RIGHT,175 lb,"6' 0""",MITCHELL MARNER,Mitchell Marner,8478483.0,Mitchell Marner,Playmaker
+TOR,C,SNP,LEFT,207 lb,"6' 1""",JOHN TAVARES,John Tavares,8475166.0,John Tavares,Sniper
+TOR,LD,TWD,LEFT,219 lb,"6' 1""",MORGAN RIELLY,Morgan Rielly,8476853.0,Morgan Rielly,Two-Way Defenseman
+TOR,RW,PLY,RIGHT,196 lb,"6' 1""",WILLIAM NYLANDER,William Nylander,8477939.0,William Nylander,Playmaker
+TOR,LD,TWD,LEFT,217 lb,"6' 3""",JAKE MUZZIN,Jake Muzzin,8474162.0,Jake Muzzin,Two-Way Defenseman
+TOR,LW,PWF,LEFT,230 lb,"6' 2""",NICK RITCHIE,Nick Ritchie,8477941.0,Nick Ritchie,Power Forward
+TOR,C,TWF,LEFT,185 lb,"5' 10""",ALEXANDER KERFOOT,Alexander Kerfoot,8477021.0,Alexander Kerfoot,Two-Way Forward
+TOR,LW,TWF,LEFT,195 lb,"6' 2""",ILYA MIKHEYEV,Ilya Mikheyev,8481624.0,Ilya Mikheyev,Two-Way Forward
+TOR,C,PLY,RIGHT,214 lb,"6' 3""",JASON SPEZZA,Jason Spezza,8469455.0,Jason Spezza,Playmaker
+TOR,RW,SNP,RIGHT,190 lb,"6' 0""",ONDREJ KASE,Ondrej Kase,8478131.0,Ondrej Kase,Sniper
+TOR,RD,TWD,LEFT,185 lb,"6' 1""",T.J. BRODIE,T.J. Brodie,8474673.0,TJ Brodie,Two-Way Defenseman
+TOR,LD,TWD,LEFT,205 lb,"6' 0""",TRAVIS DERMOTT,Travis Dermott,8478408.0,Travis Dermott,Two-Way Defenseman
+TOR,RW,PWF,RIGHT,185 lb,"6' 2""",WAYNE SIMMONDS,Wayne Simmonds,8474190.0,Wayne Simmonds,Power Forward
+TOR,C,TWF,LEFT,188 lb,"6' 2""",DAVID KAMPF,David Kampf,8480144.0,David Kampf,Two-Way Forward
+TOR,RD,DFD,RIGHT,210 lb,"6' 3""",JUSTIN HOLL,Justin Holl,8475718.0,Justin Holl,Defensive Defenseman
+TOR,LW,TWF,LEFT,192 lb,"6' 4""",PIERRE ENGVALL,Pierre Engvall,8478115.0,Pierre Engvall,Two-Way Forward
+TOR,LD,TWD,LEFT,183 lb,"5' 11""",RASMUS SANDIN,Rasmus Sandin,8480873.0,Rasmus Sandin,Two-Way Defenseman
+TOR,LW,TWF,LEFT,196 lb,"5' 11""",MICHAEL BUNTING,Michael Bunting,8478047.0,Michael Bunting,Two-Way Forward
+TOR,RD,TWD,RIGHT,192 lb,"6' 0""",TIMOTHY LILJEGREN,Timothy Liljegren,8480043.0,Timothy Liljegren,Two-Way Defenseman
+TOR,RD,TWD,RIGHT,199 lb,"5' 10""",ALEX BIEGA,Alex Biega,8473415.0,Alex Biega,Two-Way Defenseman
+TOR,C,TWF,LEFT,181 lb,"5' 10""",ADAM BROOKS,Adam Brooks,8478996.0,Adam Brooks,Two-Way Forward
+TOR,RW,GRN,RIGHT,201 lb,"6' 4""",KURTIS GABRIEL,Kurtis Gabriel,8476545.0,Kurtis Gabriel,Grinder
+VAN,LD,OFD,LEFT,170 lb,"5' 10""",QUINN HUGHES,Quinn Hughes,8480800.0,Quinn Hughes,Offensive Defenseman
+VAN,RW,SNP,RIGHT,208 lb,"6' 1""",BROCK BOESER,Brock Boeser,8478444.0,Brock Boeser,Sniper
+VAN,C,TWF,LEFT,176 lb,"6' 2""",ELIAS PETTERSSON,Elias Pettersson,8480012.0,Elias Pettersson,Two-Way Forward
+VAN,C,TWF,LEFT,215 lb,"6' 0""",BO HORVAT,Bo Horvat,8477500.0,Bo Horvat,Two-Way Forward
+VAN,LW,TWF,LEFT,218 lb,"6' 1""",J.T. MILLER,J.T. Miller,8476468.0,J.T. Miller,Two-Way Forward
+VAN,LD,TWD,LEFT,200 lb,"6' 2""",OLIVER EKMAN-LARSSON,Oliver Ekman-Larsson,8475171.0,Oliver Ekman-Larsson,Two-Way Defenseman
+VAN,RW,SNP,RIGHT,165 lb,"5' 10""",CONOR GARLAND,Conor Garland,8478856.0,Conor Garland,Sniper
+VAN,C,TWF,LEFT,200 lb,"6' 2""",JASON DICKINSON,Jason Dickinson,8477450.0,Jason Dickinson,Two-Way Forward
+VAN,LW,TWF,LEFT,185 lb,"5' 9""",NILS HOGLANDER,Nils Hoglander,8481535.0,Nils Hoglander,Two-Way Forward
+VAN,LW,TWF,LEFT,201 lb,"6' 1""",TANNER PEARSON,Tanner Pearson,8476871.0,Tanner Pearson,Two-Way Forward
+VAN,RD,TWD,RIGHT,229 lb,"6' 8""",TYLER MYERS,Tyler Myers,8474574.0,Tyler Myers,Two-Way Defenseman
+VAN,LD,TWD,LEFT,177 lb,"5' 9""",BRAD HUNT,Brad Hunt,8476779.0,Brad Hunt,Two-Way Defenseman
+VAN,C,TWF,RIGHT,190 lb,"6' 3""",BRANDON SUTTER,Brandon Sutter,8474091.0,Brandon Sutter,Two-Way Forward
+VAN,LW,TWF,LEFT,192 lb,"5' 10""",TYLER MOTTE,Tyler Motte,8477353.0,Tyler Motte,Two-Way Forward
+VAN,C,TWF,LEFT,180 lb,"5' 10""",JUSTIN DOWLING,Justin Dowling,8475413.0,Justin Dowling,Two-Way Forward
+VAN,RD,DFD,RIGHT,225 lb,"6' 2""",LUKE SCHENN,Luke Schenn,8474568.0,Luke Schenn,Defensive Defenseman
+VAN,LD,TWD,LEFT,182 lb,"6' 3""",OLLI JUOLEVI,Olli Juolevi,8479355.0,Olli Juolevi,Two-Way Defenseman
+VAN,RD,DFD,RIGHT,205 lb,"6' 2""",TRAVIS HAMONIC,Travis Hamonic,8474612.0,Travis Hamonic,Defensive Defenseman
+VAN,RW,GRN,RIGHT,205 lb,"6' 3""",ZACK MACEWEN,Zack Macewen,8479772.0,Zack MacEwen,Grinder
+VAN,RW,TWF,LEFT,187 lb,"5' 11""",MATTHEW HIGHMORE,Matthew Highmore,8478146.0,Matthew Highmore,Two-Way Forward
+VAN,RD,DFD,RIGHT,199 lb,"6' 4""",TUCKER POOLMAN,Tucker Poolman,8477359.0,Tucker Poolman,Defensive Defenseman
+VAN,RD,TWD,RIGHT,194 lb,"6' 2""",BRADY KEEPER,Brady Keeper,8481442.0,Brady Keeper,Two-Way Defenseman
+VAN,LW,GRN,LEFT,217 lb,"6' 1""",MICHEAL FERLAND,Micheal Ferland,8475907.0,Micheal Ferland,Grinder
+VGK,RW,TWF,RIGHT,202 lb,"6' 3""",MARK STONE,Mark Stone,8475913.0,Mark Stone,Two-Way Forward
+VGK,RD,TWD,RIGHT,210 lb,"6' 3""",ALEX PIETRANGELO,Alex Pietrangelo,8474565.0,Alex Pietrangelo,Two-Way Defenseman
+VGK,LW,PLY,RIGHT,180 lb,"5' 9""",JONATHAN MARCHESSAULT,Jonathan Marchessault,8476539.0,Jonathan Marchessault,Playmaker
+VGK,LW,SNP,LEFT,215 lb,"6' 2""",MAX PACIORETTY,Max Pacioretty,8474157.0,Max Pacioretty,Sniper
+VGK,LD,TWD,LEFT,195 lb,"6' 2""",SHEA THEODORE,Shea Theodore,8477447.0,Shea Theodore,Two-Way Defenseman
+VGK,C,TWF,LEFT,195 lb,"6' 1""",WILLIAM KARLSSON,William Karlsson,8476448.0,William Karlsson,Two-Way Forward
+VGK,RW,PWF,RIGHT,220 lb,"6' 4""",ALEX TUCH,Alex Tuch,8477949.0,Alex Tuch,Power Forward
+VGK,RW,SNP,LEFT,185 lb,"5' 11""",EVGENII DADONOV,Evgenii Dadonov,8474149.0,Evgenii Dadonov,Sniper
+VGK,RW,SNP,LEFT,183 lb,"6' 0""",REILLY SMITH,Reilly Smith,8475191.0,Reilly Smith,Sniper
+VGK,LD,TWD,LEFT,209 lb,"6' 2""",ALEC MARTINEZ,Alec Martinez,8474166.0,Alec Martinez,Two-Way Defenseman
+VGK,LW,TWF,LEFT,190 lb,"6' 0""",CHANDLER STEPHENSON,Chandler Stephenson,8476905.0,Chandler Stephenson,Two-Way Forward
+VGK,C,SNP,LEFT,195 lb,"6' 1""",MATTIAS JANMARK,Mattias Janmark,8477406.0,Mattias Janmark,Sniper
+VGK,LD,DFD,LEFT,213 lb,"6' 4""",BRAYDEN MCNABB,Brayden Mcnabb,8475188.0,Brayden McNabb,Defensive Defenseman
+VGK,LD,TWD,LEFT,214 lb,"6' 6""",NICOLAS HAGUE,Nicolas Hague,8479980.0,Nicolas Hague,Two-Way Defenseman
+VGK,C,TWF,RIGHT,198 lb,"6' 2""",NOLAN PATRICK,Nolan Patrick,8479974.0,Nolan Patrick,Two-Way Forward
+VGK,LW,PWF,LEFT,218 lb,"6' 2""",WILLIAM CARRIER,William Carrier,8477478.0,William Carrier,Power Forward
+VGK,C,TWF,LEFT,200 lb,"6' 1""",BRETT HOWDEN,Brett Howden,8479353.0,Brett Howden,Two-Way Forward
+VGK,RW,GRN,RIGHT,227 lb,"6' 2""",KEEGAN KOLESAR,Keegan Kolesar,8478434.0,Keegan Kolesar,Grinder
+VGK,LW,TWF,RIGHT,200 lb,"6' 4""",NICOLAS ROY,Nicolas Roy,8478462.0,Nicolas Roy,Two-Way Forward
+VGK,RD,TWD,RIGHT,190 lb,"6' 2""",DYLAN COGHLAN,Dylan Coghlan,8479639.0,Dylan Coghlan,Two-Way Defenseman
+VGK,RD,TWD,RIGHT,209 lb,"6' 2""",ZACH WHITECLOUD,Zach Whitecloud,8480727.0,Zach Whitecloud,Two-Way Defenseman
+VGK,C,PLY,LEFT,190 lb,"5' 11""",PEYTON KREBS,Peyton Krebs,8481522.0,Peyton Krebs,Playmaker
+WPG,C,PLY,RIGHT,207 lb,"6' 3""",MARK SCHEIFELE,Mark Scheifele,8476460.0,Mark Scheifele,Playmaker
+WPG,RW,PLY,RIGHT,225 lb,"6' 5""",BLAKE WHEELER,Blake Wheeler,8471218.0,Blake Wheeler,Playmaker
+WPG,LW,SNP,LEFT,182 lb,"6' 1""",KYLE CONNOR,Kyle Connor,8478398.0,Kyle Connor,Sniper
+WPG,LD,TWD,LEFT,195 lb,"6' 0""",JOSH MORRISSEY,Josh Morrissey,8477504.0,Josh Morrissey,Two-Way Defenseman
+WPG,RD,OFD,RIGHT,186 lb,"5' 11""",NEAL PIONK,Neal Pionk,8480145.0,Neal Pionk,Offensive Defenseman
+WPG,RW,PLY,LEFT,172 lb,"6' 0""",NIKOLAJ EHLERS,Nikolaj Ehlers,8477940.0,Nikolaj Ehlers,Playmaker
+WPG,C,PWF,LEFT,219 lb,"6' 3""",PIERRE-LUC DUBOIS,Pierre-Luc Dubois,8479400.0,Pierre-Luc Dubois,Power Forward
+WPG,C,TWF,LEFT,210 lb,"6' 5""",ADAM LOWRY,Adam Lowry,8476392.0,Adam Lowry,Two-Way Forward
+WPG,C,TWF,LEFT,206 lb,"6' 1""",ANDREW COPP,Andrew Copp,8477429.0,Andrew Copp,Two-Way Forward
+WPG,LD,TWD,LEFT,194 lb,"6' 1""",NATE SCHMIDT,Nate Schmidt,8477220.0,Nate Schmidt,Two-Way Defenseman
+WPG,C,PLY,LEFT,193 lb,"6' 0""",PAUL STASTNY,Paul Stastny,8471669.0,Paul Stastny,Playmaker
+WPG,LD,DFD,LEFT,220 lb,"6' 4""",BRENDEN DILLON,Brenden Dillon,8475455.0,Brenden Dillon,Defensive Defenseman
+WPG,LW,TWF,LEFT,182 lb,"6' 1""",JANSEN HARKINS,Jansen Harkins,8478424.0,Jansen Harkins,Two-Way Forward
+WPG,RD,DFD,RIGHT,191 lb,"6' 1""",DYLAN DEMELO,Dylan Demelo,8476331.0,Dylan DeMelo,Defensive Defenseman
+WPG,LW,SNP,LEFT,207 lb,"6' 4""",KRISTIAN VESALAINEN,Kristian Vesalainen,8480005.0,Kristian Vesalainen,Sniper
+WPG,LD,TWD,LEFT,200 lb,"6' 2""",NATHAN BEAULIEU,Nathan Beaulieu,8476470.0,Nathan Beaulieu,Two-Way Defenseman
+WPG,C,TWF,RIGHT,188 lb,"6' 2""",RILEY NASH,Riley Nash,8474062.0,Riley Nash,Two-Way Forward
+WPG,LD,DFD,LEFT,231 lb,"6' 7""",LOGAN STANLEY,Logan Stanley,8479378.0,Logan Stanley,Defensive Defenseman
+WPG,C,TWF,RIGHT,198 lb,"5' 11""",LUKE JOHNSON,Luke Johnson,8477366.0,Luke Johnson,Two-Way Forward
+WPG,C,TWF,RIGHT,191 lb,"6' 0""",BRYAN LITTLE,Bryan Little,8473412.0,Bryan Little,Two-Way Forward
+WPG,C,PLY,RIGHT,181 lb,"5' 10""",MATTHEW SAVOIE,Matthew Savoie,8483512.0,Matthew Savoie,Playmaker
+WSH,LW,SNP,RIGHT,238 lb,"6' 3""",ALEX OVECHKIN,Alex Ovechkin,8471214.0,Alex Ovechkin,Sniper
+WSH,RD,TWD,RIGHT,215 lb,"6' 3""",JOHN CARLSON,John Carlson,8474590.0,John Carlson,Two-Way Defenseman
+WSH,C,PLY,LEFT,206 lb,"6' 1""",NICKLAS BACKSTROM,Nicklas Backstrom,8473563.0,Nicklas Backstrom,Playmaker
+WSH,RW,SNP,LEFT,234 lb,"6' 5""",ANTHONY MANTHA,Anthony Mantha,8477511.0,Anthony Mantha,Sniper
+WSH,C,PLY,LEFT,205 lb,"6' 1""",EVGENY KUZNETSOV,Evgeny Kuznetsov,8475744.0,Evgeny Kuznetsov,Playmaker
+WSH,RW,TWF,RIGHT,196 lb,"5' 11""",T.J. OSHIE,T.J. Oshie,8471698.0,T.J. Oshie,Two-Way Forward
+WSH,RW,PWF,RIGHT,220 lb,"6' 4""",TOM WILSON,Tom Wilson,8476880.0,Tom Wilson,Power Forward
+WSH,LD,TWD,LEFT,211 lb,"5' 11""",DMITRY ORLOV,Dmitry Orlov,8475200.0,Dmitry Orlov,Two-Way Defenseman
+WSH,RD,OFD,RIGHT,186 lb,"6' 2""",JUSTIN SCHULTZ,Justin Schultz,8474602.0,Justin Schultz,Offensive Defenseman
+WSH,C,TWF,LEFT,208 lb,"6' 2""",LARS ELLER,Lars Eller,8474189.0,Lars Eller,Two-Way Forward
+WSH,LW,TWF,LEFT,185 lb,"5' 11""",CARL HAGELIN,Carl Hagelin,8474176.0,Carl Hagelin,Two-Way Forward
+WSH,LW,TWF,LEFT,178 lb,"5' 8""",CONOR SHEARY,Conor Sheary,8477839.0,Conor Sheary,Two-Way Forward
+WSH,RW,SNP,RIGHT,181 lb,"6' 0""",DANIEL SPRONG,Daniel Sprong,8478466.0,Daniel Sprong,Sniper
+WSH,RW,GRN,RIGHT,212 lb,"6' 2""",GARNET HATHAWAY,Garnet Hathaway,8477903.0,Garnet Hathaway,Grinder
+WSH,C,TWF,RIGHT,192 lb,"6' 2""",NIC DOWD,Nic Dowd,8475343.0,Nic Dowd,Two-Way Forward
+WSH,LD,TWD,LEFT,195 lb,"6' 1""",MICHAL KEMPNY,Michal Kempny,8479482.0,Michal Kempny,Two-Way Defenseman
+WSH,RD,DFD,RIGHT,205 lb,"6' 0""",NICK JENSEN,Nick Jensen,8475324.0,Nick Jensen,Defensive Defenseman
+WSH,RD,DFD,RIGHT,188 lb,"6' 2""",TREVOR VAN RIEMSDYK,Trevor Van Riemsdyk,8477845.0,Trevor van Riemsdyk,Defensive Defenseman
+WSH,LD,DFD,LEFT,207 lb,"6' 1""",MATT IRWIN,Matt Irwin,8475625.0,Matt Irwin,Defensive Defenseman
+ARI,LW,PWF,LEFT,205 lb,"6' 3""",ANDREW LADD,Andrew Ladd,8471217.0,Andrew Ladd,Power Forward
+PIT,RW,PWF,LEFT,212 lb,"6' 3""",JAMES NEAL,James Neal,8471707.0,James Neal,Power Forward
+OTT,LW,SNP,LEFT,161 lb,"5' 9""",TYLER ENNIS,Tyler Ennis,8474589.0,Tyler Ennis,Sniper
+VAN,RW,PWF,RIGHT,207 lb,"6' 4""",ALEX CHIASSON,Alex Chiasson,8475163.0,Alex Chiasson,Power Forward
+CBJ,RW,GRN,LEFT,201 lb,"6' 0""",GREGORY HOFMANN,Gregory Hofmann,8476345.0,Gregory Hofmann,Grinder
+CBJ,LW,TWF,LEFT,217 lb,"6' 2""",BRENDAN GAUNCE,Brendan Gaunce,8476867.0,Brendan Gaunce,Two-Way Forward
+MB,LW,TWF,LEFT,201 lb,"6' 2""",DOMINIC TONINATO,Dominic Toninato,8476952.0,Dominic Toninato,Two-Way Forward
+SJ,LD,DFD,LEFT,219 lb,"6' 6""",JAYCOB MEGNA,Jaycob Megna,8477034.0,Jaycob Megna,Defensive Defenseman
+MIN,RD,DFD,RIGHT,220 lb,"6' 7""",ANDREJ SUSTR,Andrej Sustr,8477205.0,Andrej Sustr,Defensive Defenseman
+VAN,RD,TWD,RIGHT,194 lb,"6' 0""",KYLE BURROUGHS,Kyle Burroughs,8477335.0,Kyle Burroughs,Two-Way Defenseman
+HFD,C,TWF,RIGHT,216 lb,"6' 1""",JONNY BRODZINSKI,Jonny Brodzinski,8477380.0,Jonny Brodzinski,Two-Way Forward
+NSH,RW,PWF,RIGHT,229 lb,"6' 6""",MICHAEL MCCARRON,Michael Mccarron,8477446.0,Michael McCarron,Power Forward
+LAV,C,TWF,LEFT,181 lb,"6' 1""",LAURENT DAUPHIN,Laurent Dauphin,8477460.0,Laurent Dauphin,Two-Way Forward
+STL,LW,TWF,LEFT,185 lb,"5' 8""",NATHAN WALKER,Nathan Walker,8477573.0,Nathan Walker,Two-Way Forward
+BAK,LD,DFD,LEFT,207 lb,"6' 2""",WILLIAM LAGESSON,William Lagesson,8478021.0,William Lagesson,Defensive Defenseman
+ARI,RD,TWD,RIGHT,194 lb,"6' 2""",DYSIN MAYO,Dysin Mayo,8478062.0,Dysin Mayo,Two-Way Defenseman
+SJS,LD,DFD,LEFT,210 lb,"6' 3""",JACOB MIDDLETON,Jacob Middleton,8478136.0,Jacob Middleton,Defensive Defenseman
+RUS,LW,SNP,LEFT,207 lb,"6' 3""",EVGENY SVECHNIKOV,Evgeny Svechnikov,8478431.0,Evgeny Svechnikov,Sniper
+NSH,C,TWF,LEFT,179 lb,"6' 1""",THOMAS NOVAK,Thomas Novak,8478438.0,Thomas Novak,Two-Way Forward
+SJS,RD,TWD,RIGHT,205 lb,"6' 3""",NICOLAS MELOCHE,Nicolas Meloche,8478467.0,Nicolas Meloche,Two-Way Defenseman
+WPG,LD,TWD,LEFT,196 lb,"6' 1""",KYLE CAPOBIANCO,Kyle Capobianco,8478476.0,Kyle Capobianco,Two-Way Defenseman
+UTI,LD,TWD,LEFT,185 lb,"6' 1""",COLTON WHITE,Colton White,8478841.0,Colton White,Two-Way Defenseman
+CAR,C,TWF,RIGHT,190 lb,"6' 0""",LANE PEDERSON,Lane Pederson,8478967.0,Lane Pederson,Two-Way Forward
+FLA,LW,TWF,LEFT,187 lb,"5' 9""",RYAN LOMBERG,Ryan Lomberg,8479066.0,Ryan Lomberg,Two-Way Forward
+BAK,LD,DFD,LEFT,203 lb,"6' 5""",MARKUS NIEMELAINEN,Markus Niemelainen,8479338.0,Markus Niemelainen,Defensive Defenseman
+ARI,LD,TWD,LEFT,182 lb,"5' 11""",CAM DINEEN,Cam Dineen,8479341.0,Cam Dineen,Two-Way Defenseman
+EDM,LW,TWF,LEFT,190 lb,"6' 0""",TYLER BENSON,Tyler Benson,8479347.0,Tyler Benson,Two-Way Forward
+MTL,LD,TWD,LEFT,177 lb,"6' 0""",KALE CLAGUE,Kale Clague,8479348.0,Kale Clague,Two-Way Defenseman
+STL,C,PWF,LEFT,227 lb,"6' 6""",LOGAN BROWN,Logan Brown,8479366.0,Logan Brown,Power Forward
+USA,RD,TWD,RIGHT,196 lb,"6' 3""",ANDREW PEEKE,Andrew Peeke,8479369.0,Andrew Peeke,Two-Way Defenseman
+SJS,C,SNP,LEFT,181 lb,"5' 11""",JONATHAN DAHLÉN,Jonathan Dahlén,8479373.0,Jonathan Dahlen,Sniper
+DET,LW,GRN,LEFT,210 lb,"6' 2""",GIVANI SMITH,Givani Smith,8479379.0,Givani Smith,Grinder
+CHI,LW,TWF,LEFT,205 lb,"6' 2""",BORIS KATCHOUK,Boris Katchouk,8479383.0,Boris Katchouk,Two-Way Forward
+CHI,RW,PWF,RIGHT,216 lb,"6' 3""",TAYLOR RADDYSH,Taylor Raddysh,8479390.0,Taylor Raddysh,Power Forward
+BUF,LW,PWF,LEFT,216 lb,"6' 4""",BRETT MURRAY,Brett Murray,8479419.0,Brett Murray,Power Forward
+ONT,LD,TWD,LEFT,198 lb,"6' 3""",JACOB MOVERARE,Jacob Moverare,8479421.0,Jacob Moverare,Two-Way Defenseman
+MTL,C,TWF,LEFT,196 lb,"5' 11""",REM PITLICK,Rem Pitlick,8479514.0,Rem Pitlick,Two-Way Forward
+WSH,LW,TWF,LEFT,185 lb,"6' 0""",AXEL JONSSON FJÄLLBY,Axel Jonsson Fjällby,8479536.0,Axel Jonsson-Fjallby,Two-Way Forward
+MTL,LW,GRN,LEFT,205 lb,"6' 1""",MICHAEL PEZZETTA,Michael Pezzetta,8479543.0,Michael Pezzetta,Grinder
+PRO,C,TWF,RIGHT,187 lb,"5' 9""",OSKAR STEEN,Oskar Steen,8479546.0,Oskar Steen,Two-Way Forward
+ROC,RD,OFD,RIGHT,181 lb,"5' 11""",CASEY FITZGERALD,Casey Fitzgerald,8479578.0,Casey Fitzgerald,Offensive Defenseman
+NSH,LW,TWF,LEFT,214 lb,"6' 2""",TANNER JEANNOT,Tanner Jeannot,8479661.0,Tanner Jeannot,Two-Way Forward
+SJ,LW,GRN,LEFT,196 lb,"6' 1""",JEFFREY VIEL,Jeffrey Viel,8479705.0,Jeffrey Viel,Grinder
+ANA,C,SNP,RIGHT,194 lb,"5' 11""",VINNI LETTIERI,Vinni Lettieri,8479968.0,Vinni Lettieri,Sniper
+ABB,LW,PWF,LEFT,209 lb,"6' 2""",JONAH GADJOVICH,Jonah Gadjovich,8479981.0,Jonah Gadjovich,Power Forward
+ANA,LD,TWD,LEFT,185 lb,"6' 1""",URHO VAAKANAINEN,Urho Vaakanainen,8480001.0,Urho Vaakanainen,Two-Way Defenseman
+SVK,C,PWF,LEFT,203 lb,"6' 4""",ADAM RUZICKA,Adam Ruzicka,8480008.0,Adam Ruzicka,Power Forward
+STL,LW,PWF,LEFT,212 lb,"6' 4""",KLIM KOSTIN,Klim Kostin,8480011.0,Klim Kostin,Power Forward
+WPG,LD,TWD,LEFT,216 lb,"6' 4""",DYLAN SAMBERG,Dylan Samberg,8480049.0,Dylan Samberg,Two-Way Defenseman
+PIT,C,TWF,LEFT,196 lb,"6' 2""",RYAN POEHLING,Ryan Poehling,8480068.0,Ryan Poehling,Two-Way Forward
+NYI,LD,TWD,LEFT,187 lb,"6' 1""",ROBIN SALO,Robin Salo,8480071.0,Robin Salo,Two-Way Defenseman
+STL,LD,TWD,LEFT,176 lb,"6' 0""",CALLE ROSEN,Calle Rosen,8480157.0,Calle Rosen,Two-Way Defenseman
+SWE,C,TWF,LEFT,181 lb,"6' 1""",JACOB PETERSON,Jacob Peterson,8480216.0,Jacob Peterson,Two-Way Forward
+WPG,C,TWF,LEFT,220 lb,"6' 2""",MORGAN BARRON,Morgan Barron,8480289.0,Morgan Barron,Two-Way Forward
+LAK,RD,OFD,RIGHT,185 lb,"6' 0""",SEAN DURZI,Sean Durzi,8480434.0,Sean Durzi,Offensive Defenseman
+WSH,LD,DFD,LEFT,203 lb,"6' 2""",MARTIN FEHERVARY,Martin Fehervary,8480796.0,Martin Fehervary,Defensive Defenseman
+EDM,RD,OFD,RIGHT,194 lb,"6' 3""",EVAN BOUCHARD,Evan Bouchard,8480803.0,Evan Bouchard,Offensive Defenseman
+ROC,LD,TWD,LEFT,223 lb,"6' 4""",MATTIAS SAMUELSSON,Mattias Samuelsson,8480807.0,Mattias Samuelsson,Two-Way Defenseman
+LAK,C,TWF,RIGHT,183 lb,"6' 1""",RASMUS KUPARI,Rasmus Kupari,8480845.0,Rasmus Kupari,Two-Way Forward
+SJ,RD,OFD,RIGHT,185 lb,"6' 0""",RYAN MERKLEY,Ryan Merkley,8480847.0,Ryan Merkley,Offensive Defenseman
+UTI,LD,DFD,LEFT,230 lb,"6' 7""",KEVIN BAHL,Kevin Bahl,8480860.0,Kevin Bahl,Defensive Defenseman
+LHF,RD,TWD,RIGHT,174 lb,"5' 11""",NILS LUNDKVIST,Nils Lundkvist,8480878.0,Nils Lundkvist,Two-Way Defenseman
+MTL,LD,TWD,LEFT,196 lb,"6' 0""",COREY SCHUENEMAN,Corey Schueneman,8481461.0,Corey Schueneman,Two-Way Defenseman
+ANA,C,PLY,LEFT,182 lb,"6' 0""",TREVOR ZEGRAS,Trevor Zegras,8481533.0,Trevor Zegras,Playmaker
+DET,RD,TWD,RIGHT,207 lb,"6' 4""",MORITZ SEIDER,Moritz Seider,8481542.0,Moritz Seider,Two-Way Defenseman
+USA,LW,SNP,LEFT,190 lb,"6' 2""",ARTHUR KALIYEV,Arthur Kaliyev,8481560.0,Arthur Kaliyev,Sniper
+NSH,RW,PLY,RIGHT,187 lb,"6' 0""",PHILIP TOMASINO,Philip Tomasino,8481577.0,Philip Tomasino,Playmaker
+WSH,C,TWF,LEFT,187 lb,"6' 0""",CONNOR MCMICHAEL,Connor Mcmichael,8481580.0,Connor McMichael,Two-Way Forward
+DAL,LD,TWD,LEFT,190 lb,"6' 3""",THOMAS HARLEY,Thomas Harley,8481581.0,Thomas Harley,Two-Way Defenseman
+EDM,LD,TWD,LEFT,198 lb,"6' 3""",PHILIP BROBERG,Philip Broberg,8481598.0,Philip Broberg,Two-Way Defenseman
+LAK,RD,OFD,RIGHT,179 lb,"5' 10""",JORDAN SPENCE,Jordan Spence,8481606.0,Jordan Spence,Offensive Defenseman
+BEL,C,PWF,LEFT,214 lb,"6' 6""",ALIAKSEI PROTAS,Aliaksei Protas,8481656.0,Aliaksei Protas,Power Forward
+NYR,RD,TWD,RIGHT,209 lb,"6' 2""",BRADEN SCHNEIDER,Braden Schneider,8482073.0,Braden Schneider,Two-Way Defenseman
+DET,RW,SNP,RIGHT,183 lb,"5' 10""",LUCAS RAYMOND,Lucas Raymond,8482078.0,Lucas Raymond,Sniper
+CAR,RW,SNP,RIGHT,174 lb,"5' 10""",SETH JARVIS,Seth Jarvis,8482093.0,Seth Jarvis,Sniper
+NJD,RW,SNP,RIGHT,179 lb,"6' 0""",DAWSON MERCER,Dawson Mercer,8482110.0,Dawson Mercer,Sniper
+FLA,C,TWF,LEFT,190 lb,"6' 1""",ANTON LUNDELL,Anton Lundell,8482113.0,Anton Lundell,Two-Way Forward
+WPG,C,PLY,LEFT,185 lb,"5' 10""",COLE PERFETTI,Cole Perfetti,8482149.0,Cole Perfetti,Playmaker
+SUI,LD,TWD,LEFT,172 lb,"6' 1""",JJ MOSER,Jj Moser,8482655.0,J.J. Moser,Two-Way Defenseman
+CBJ,C,PLY,LEFT,187 lb,"6' 0""",COLE SILLINGER,Cole Sillinger,8482705.0,Cole Sillinger,Playmaker
